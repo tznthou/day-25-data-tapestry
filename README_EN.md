@@ -79,6 +79,35 @@ flowchart TB
 
 ---
 
+## Robustness & Reliability
+
+This project underwent a comprehensive code review, fixing 10 critical issues to ensure stable operation.
+
+### Issues Fixed
+
+| Priority | Issue | Fix |
+|----------|-------|-----|
+| 🔴 Critical | Timezone Mismatch | `getTaiwanDate()` ensures correct Taiwan date when running at 00:00 |
+| 🔴 Critical | API Errors Unhandled | `Deno.exit(1)` on empty data to prevent invalid writes |
+| 🔴 Critical | SVG Injection Risk | Added `escapeXml()` to escape all dynamic content |
+| 🟠 High | API Rate Limiting | Detect API error responses and terminate |
+| 🟠 High | Git Push Failure | Added 3-retry mechanism with 5s interval |
+| 🟠 High | Unbounded Raw Files | Use fixed filename + auto-cleanup old files |
+| 🟠 High | Division by Zero | Added `topRepos.length > 0` check |
+| 🟡 Medium | Data Boundary Check | `safeMetrics` provides default value protection |
+| 🟡 Medium | Cron Comment | Updated to clearly describe Taiwan timezone |
+| 🟡 Medium | README Update Failure | `process.exit(1)` on failure to trigger notifications |
+
+### Results
+
+- ✅ **Correct Timezone**: Daily data correctly labeled with Taiwan date
+- ✅ **Visible Failures**: Any error fails the workflow and triggers GitHub notifications
+- ✅ **Security Hardened**: Protected against SVG injection attacks
+- ✅ **Auto Cleanup**: Repository won't grow unbounded from raw files
+- ✅ **Fault Tolerance**: Git push failures auto-retry up to 3 times
+
+---
+
 ## Project Structure
 
 ```

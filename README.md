@@ -93,6 +93,35 @@ flowchart TB
 
 ---
 
+## 穩健性強化
+
+本專案經過完整的 Code Review，修復了 10 項關鍵問題，確保系統穩定運作。
+
+### 已修復問題一覽
+
+| 優先級 | 問題 | 修復內容 |
+|-------|------|---------|
+| 🔴 Critical | 時區不一致 | 使用 `getTaiwanDate()` 確保台灣時間 00:00 執行時日期正確 |
+| 🔴 Critical | API 錯誤未處理 | 無資料時 `Deno.exit(1)` 終止流程，避免空資料寫入 |
+| 🔴 Critical | SVG 注入風險 | 新增 `escapeXml()` 函式跳脫所有動態內容 |
+| 🟠 High | API Rate Limit | 偵測 API 錯誤回應並終止執行 |
+| 🟠 High | Git Push 失敗 | 加入 3 次重試機制，間隔 5 秒 |
+| 🟠 High | Raw 檔案無限增長 | 改用固定檔名 + 自動清理舊檔 |
+| 🟠 High | 除以零風險 | 加入 `topRepos.length > 0` 檢查 |
+| 🟡 Medium | 資料邊界檢查 | `safeMetrics` 提供預設值防護 |
+| 🟡 Medium | Cron 註解 | 改為中文說明「每日台灣時間 00:00 執行」 |
+| 🟡 Medium | README 更新失敗 | 失敗時 `process.exit(1)` 觸發通知 |
+
+### 修復成效
+
+- ✅ **時區正確**：確保每日數據標記正確的台灣日期
+- ✅ **失敗可見**：任何錯誤都會讓 Workflow 失敗並發送 GitHub 通知
+- ✅ **安全強化**：防止 SVG 注入攻擊
+- ✅ **自動清理**：Repository 不會因 raw 檔案無限增長
+- ✅ **容錯處理**：Git push 失敗會自動重試
+
+---
+
 ## 專案結構
 
 ```
