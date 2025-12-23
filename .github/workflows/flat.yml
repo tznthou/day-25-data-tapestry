@@ -26,6 +26,9 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
+      - name: Create data directories
+        run: mkdir -p data/raw data/daily
+
       - name: Fetch daily trending data
         uses: githubocto/flat@v3
         with:
