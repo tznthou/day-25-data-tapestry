@@ -224,6 +224,54 @@ function generateTapestry(dailyData) {
   return svg;
 }
 
+// Generate Top 10 markdown table
+function generateTop10Markdown(latestData) {
+  if (!latestData || !latestData.topRepos) {
+    return '*No data yet. Check back tomorrow!*';
+  }
+
+  const { date, metrics, topRepos } = latestData;
+  const rows = topRepos.slice(0, 5).map((repo, i) => {
+    const langBadge = `![${repo.language}](https://img.shields.io/badge/-${encodeURIComponent(repo.language)}-${repo.color.slice(1)}?style=flat-square)`;
+    return `| ${i + 1} | [${repo.name}](https://github.com/${repo.name}) | ${langBadge} | ⭐ ${repo.stars.toLocaleString()} |`;
+  });
+
+  return `**${date}** • ${metrics.dominantLanguage} 主導 • 共 ${metrics.totalStars.toLocaleString()} ⭐
+
+| # | Repository | Language | Stars |
+|---|------------|----------|-------|
+${rows.join('\n')}`;
+}
+
+// Update README with Top 10
+function updateReadme(latestData) {
+  const readmePath = 'README.md';
+
+  if (!existsSync(readmePath)) {
+    console.log('⚠️ README.md not found, skipping update');
+    return;
+  }
+
+  const readme = readFileSync(readmePath, 'utf-8');
+  const top10Markdown = generateTop10Markdown(latestData);
+
+  const startMarker = '<!-- TOP10_START -->';
+  const endMarker = '<!-- TOP10_END -->';
+
+  if (!readme.includes(startMarker) || !readme.includes(endMarker)) {
+    console.log('⚠️ TOP10 markers not found in README.md, skipping update');
+    return;
+  }
+
+  const before = readme.split(startMarker)[0];
+  const after = readme.split(endMarker)[1];
+
+  const newReadme = `${before}${startMarker}\n${top10Markdown}\n${endMarker}${after}`;
+
+  writeFileSync(readmePath, newReadme);
+  console.log('📝 README.md updated with Top 10');
+}
+
 // Main execution
 function main() {
   console.log('🧵 Loading daily data...');
@@ -241,6 +289,9 @@ function main() {
     const latest = dailyData[0];
     console.log(`   Latest thread: ${latest.date}`);
     console.log(`   Dominant: ${latest.metrics.dominantLanguage}`);
+
+    // Update README with Top 10
+    updateReadme(latest);
   } else {
     console.log('   (Empty tapestry - awaiting first data)');
   }

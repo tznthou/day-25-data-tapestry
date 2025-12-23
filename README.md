@@ -22,6 +22,20 @@
 - **累計天數**：持續增長中...
 - **數據來源**：GitHub 每日熱門專案
 
+### 今日熱門 Top 5
+
+<!-- TOP10_START -->
+**2025-12-23** • Python 主導 • 共 2,888 ⭐
+
+| # | Repository | Language | Stars |
+|---|------------|----------|-------|
+| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 632 |
+| 2 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 438 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 428 |
+| 4 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 436 |
+| 5 | [google/A2UI](https://github.com/google/A2UI) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 196 |
+<!-- TOP10_END -->
+
 ---
 
 ## 視覺美學映射
