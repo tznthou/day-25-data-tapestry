@@ -11,8 +11,15 @@ import { readJSON, writeJSON } from "https://deno.land/x/flat@0.0.15/mod.ts";
 const filename = Deno.args[0];
 const rawData = await readJSON(filename);
 
-// Extract today's date
-const today = new Date().toISOString().split('T')[0];
+// Extract today's date in Taiwan timezone (UTC+8)
+function getTaiwanDate(): string {
+  const now = new Date();
+  // Add 8 hours to UTC to get Taiwan time
+  const taiwanTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+  return taiwanTime.toISOString().split('T')[0];
+}
+
+const today = getTaiwanDate();
 
 // GitHub language colors for visual mapping
 const languageColors: Record<string, string> = {
@@ -50,6 +57,13 @@ interface TrendingRepo {
 }
 
 const rows: TrendingRepo[] = rawData?.data?.rows || [];
+
+// Validate API response - fail early if no data
+if (!rows || rows.length === 0) {
+  console.error('❌ API returned no data or invalid response');
+  console.error('   Raw data:', JSON.stringify(rawData).slice(0, 200));
+  Deno.exit(1);
+}
 
 // Extract top 10 repos and compute daily metrics
 const topRepos = rows.slice(0, 10).map((repo: TrendingRepo) => ({

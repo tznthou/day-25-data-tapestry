@@ -9,6 +9,17 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { join } from 'path';
 
+// Escape special characters for SVG/XML to prevent injection
+function escapeXml(str) {
+  if (typeof str !== 'string') return str;
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 // Configuration
 const CONFIG = {
   width: 800,
@@ -113,7 +124,7 @@ function generateThread(data, index, totalThreads) {
       class="thread"
       style="animation-delay: ${animDelay}"
     >
-      <title>${date}: ${totalStars} stars, ${Object.keys(languageDistribution).join(', ')}</title>
+      <title>${escapeXml(date)}: ${totalStars} stars, ${Object.keys(languageDistribution).map(escapeXml).join(', ')}</title>
     </path>`,
     date,
   };
@@ -137,7 +148,7 @@ function generateTapestry(dailyData) {
     .filter((_, i) => i % 7 === 0)
     .map((t, i) => {
       const y = CONFIG.padding + (i * 7) * CONFIG.threadHeight + 4;
-      return `<text x="${CONFIG.width - CONFIG.padding + 5}" y="${y}" class="date-label">${t.date.slice(5)}</text>`;
+      return `<text x="${CONFIG.width - CONFIG.padding + 5}" y="${y}" class="date-label">${escapeXml(t.date.slice(5))}</text>`;
     })
     .join('\n');
 
