@@ -1,0 +1,50 @@
+name: Flat Data - Weave Daily Trends
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/flat.yml'
+      - 'scripts/**'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Fetch daily trending data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api.ossinsight.io/v1/trends/repos?period=past_24_hours
+          downloaded_filename: data/raw/trending-${{ github.run_id }}.json
+          postprocess: scripts/postprocess.ts
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Weave the tapestry
+        run: node scripts/weave.js
+
+      - name: Commit tapestry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tapestry.svg data/
+          git diff --staged --quiet || git commit -m "weave: $(date -u +%Y-%m-%d) daily thread"
+          git push

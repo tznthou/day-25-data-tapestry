@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <title>The Data Tapestry - GitHub Trends Woven in Time</title>
+  <desc>A living data art piece that weaves daily GitHub trending repositories into an evolving tapestry. Each thread represents one day of open source activity.</desc>
+
+  <style>
+    .thread {
+      animation: breathe 8s ease-in-out infinite alternate;
+    }
+
+    @keyframes breathe {
+      0% {
+        opacity: var(--base-opacity, 0.7);
+        stroke-width: var(--base-width, 4);
+      }
+      100% {
+        opacity: calc(var(--base-opacity, 0.7) + 0.15);
+        stroke-width: calc(var(--base-width, 4) + 0.5);
+      }
+    }
+
+    .date-label {
+      font-family: ui-monospace, monospace;
+      font-size: 8px;
+      fill: #666;
+    }
+
+    .title {
+      font-family: system-ui, sans-serif;
+      font-size: 14px;
+      fill: #333;
+      font-weight: 600;
+    }
+
+    .subtitle {
+      font-family: system-ui, sans-serif;
+      font-size: 10px;
+      fill: #888;
+    }
+
+    .empty-state {
+      font-family: system-ui, sans-serif;
+      font-size: 12px;
+      fill: #999;
+      text-anchor: middle;
+    }
+  </style>
+
+  <defs>
+    
+
+    <!-- Background pattern -->
+    <pattern id="loom" patternUnits="userSpaceOnUse" width="20" height="20">
+      <rect width="20" height="20" fill="#fafafa"/>
+      <circle cx="10" cy="10" r="0.5" fill="#eee"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#loom)"/>
+
+  <!-- Threads -->
+  <g id="tapestry">
+    
+    <text x="400" y="100" class="empty-state">
+      The loom awaits its first thread...
+    </text>
+    <text x="400" y="120" class="empty-state">
+      Check back tomorrow to see the tapestry begin.
+    </text>
+    
+  </g>
+
+  <!-- Date markers -->
+  <g id="dates">
+    
+  </g>
+
+</svg>

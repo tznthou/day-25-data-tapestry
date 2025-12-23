@@ -1,0 +1,19 @@
+{
+  "name": "data-tapestry",
+  "version": "1.0.0",
+  "description": "A living data art piece that weaves daily GitHub trends into an evolving SVG tapestry",
+  "type": "module",
+  "scripts": {
+    "weave": "node scripts/weave.js",
+    "preview": "open tapestry.svg"
+  },
+  "keywords": [
+    "data-art",
+    "generative-art",
+    "svg",
+    "flat-data",
+    "github-trends"
+  ],
+  "author": "tznthou",
+  "license": "MIT"
+}
