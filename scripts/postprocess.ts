@@ -56,6 +56,13 @@ interface TrendingRepo {
   total_score: string;
 }
 
+// H01: Detect API rate limiting or error responses
+if (rawData?.message || rawData?.error) {
+  console.error('❌ API error response detected');
+  console.error('   Message:', rawData.message || rawData.error);
+  Deno.exit(1);
+}
+
 const rows: TrendingRepo[] = rawData?.data?.rows || [];
 
 // Validate API response - fail early if no data
@@ -65,18 +72,28 @@ if (!rows || rows.length === 0) {
   Deno.exit(1);
 }
 
-// Extract top 10 repos and compute daily metrics
-const topRepos = rows.slice(0, 10).map((repo: TrendingRepo) => ({
-  name: repo.repo_name,
-  language: repo.primary_language || "Unknown",
-  color: languageColors[repo.primary_language || ""] || "#8b8b8b",
-  stars: parseInt(repo.stars) || 0,
-  score: parseFloat(repo.total_score) || 0,
-}));
+// Extract top 10 repos and compute daily metrics with field validation
+const topRepos = rows.slice(0, 10).map((repo: TrendingRepo) => {
+  // Validate required fields
+  const name = repo.repo_name || 'unknown/repo';
+  const stars = parseInt(repo.stars) || 0;
+  const score = parseFloat(repo.total_score) || 0;
+
+  return {
+    name,
+    language: repo.primary_language || "Unknown",
+    color: languageColors[repo.primary_language || ""] || "#8b8b8b",
+    stars: Math.max(0, stars), // Ensure non-negative
+    score: Math.max(0, score), // Ensure non-negative
+  };
+});
 
 // Compute daily aggregate metrics for the thread
 const totalStars = topRepos.reduce((sum: number, r: { stars: number }) => sum + r.stars, 0);
-const avgScore = topRepos.reduce((sum: number, r: { score: number }) => sum + r.score, 0) / topRepos.length;
+// H04: Prevent division by zero
+const avgScore = topRepos.length > 0
+  ? topRepos.reduce((sum: number, r: { score: number }) => sum + r.score, 0) / topRepos.length
+  : 0;
 
 // Count languages for color distribution
 const languageCounts: Record<string, number> = {};

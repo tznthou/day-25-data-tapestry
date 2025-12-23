@@ -71,11 +71,20 @@ function generateWavePath(y, metrics, index, width) {
   return `M ${points.join(' L ')}`;
 }
 
-// Generate thread element
+// Generate thread element with M03 data boundary validation
 function generateThread(data, index, totalThreads) {
   const y = CONFIG.padding + index * CONFIG.threadHeight;
   const { date, metrics, topRepos } = data;
-  const { dominantColor, totalStars, avgScore, languageDistribution } = metrics;
+
+  // M03: Validate metrics exist and have safe defaults
+  const safeMetrics = {
+    dominantColor: metrics?.dominantColor || '#8b8b8b',
+    totalStars: Math.max(0, metrics?.totalStars || 0),
+    avgScore: Math.max(0, metrics?.avgScore || 0),
+    languageDistribution: metrics?.languageDistribution || {},
+  };
+
+  const { dominantColor, totalStars, avgScore, languageDistribution } = safeMetrics;
 
   // Calculate stroke width based on total stars
   const strokeWidth = Math.max(2, Math.min(8, totalStars / 500));
@@ -255,12 +264,13 @@ ${rows.join('\n')}`;
 }
 
 // Update README with Top 10
+// M05: Returns success status for workflow error handling
 function updateReadme(latestData) {
   const readmePath = 'README.md';
 
   if (!existsSync(readmePath)) {
-    console.log('⚠️ README.md not found, skipping update');
-    return;
+    console.error('❌ README.md not found');
+    return false;
   }
 
   const readme = readFileSync(readmePath, 'utf-8');
@@ -270,8 +280,8 @@ function updateReadme(latestData) {
   const endMarker = '<!-- TOP10_END -->';
 
   if (!readme.includes(startMarker) || !readme.includes(endMarker)) {
-    console.log('⚠️ TOP10 markers not found in README.md, skipping update');
-    return;
+    console.error('❌ TOP10 markers not found in README.md');
+    return false;
   }
 
   const before = readme.split(startMarker)[0];
@@ -279,8 +289,14 @@ function updateReadme(latestData) {
 
   const newReadme = `${before}${startMarker}\n${top10Markdown}\n${endMarker}${after}`;
 
-  writeFileSync(readmePath, newReadme);
-  console.log('📝 README.md updated with Top 10');
+  try {
+    writeFileSync(readmePath, newReadme);
+    console.log('📝 README.md updated with Top 10');
+    return true;
+  } catch (err) {
+    console.error('❌ Failed to write README.md:', err.message);
+    return false;
+  }
 }
 
 // Main execution
@@ -293,16 +309,25 @@ function main() {
   console.log('🎨 Weaving tapestry...');
   const svg = generateTapestry(dailyData);
 
-  writeFileSync('tapestry.svg', svg);
-  console.log('✨ Tapestry woven: tapestry.svg');
+  try {
+    writeFileSync('tapestry.svg', svg);
+    console.log('✨ Tapestry woven: tapestry.svg');
+  } catch (err) {
+    console.error('❌ Failed to write tapestry.svg:', err.message);
+    process.exit(1);
+  }
 
   if (dailyData.length > 0) {
     const latest = dailyData[0];
     console.log(`   Latest thread: ${latest.date}`);
     console.log(`   Dominant: ${latest.metrics.dominantLanguage}`);
 
-    // Update README with Top 10
-    updateReadme(latest);
+    // M05: Update README with Top 10, exit on failure
+    const readmeSuccess = updateReadme(latest);
+    if (!readmeSuccess) {
+      console.error('❌ README update failed, workflow will fail');
+      process.exit(1);
+    }
   } else {
     console.log('   (Empty tapestry - awaiting first data)');
   }
