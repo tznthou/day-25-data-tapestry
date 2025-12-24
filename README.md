@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2025-12-24** • Python 主導 • 共 2,888 ⭐
+**2025-12-25** • Python 主導 • 共 3,511 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 632 |
-| 2 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 438 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 428 |
-| 4 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 436 |
-| 5 | [google/A2UI](https://github.com/google/A2UI) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 196 |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,075 |
+| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 430 |
+| 3 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 401 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 351 |
+| 5 | [exo-explore/exo](https://github.com/exo-explore/exo) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 286 |
 <!-- TOP10_END -->
 
 ---
