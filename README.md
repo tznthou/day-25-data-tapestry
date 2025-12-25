@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2025-12-25** • Python 主導 • 共 3,511 ⭐
+**2025-12-26** • Python 主導 • 共 3,803 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,075 |
-| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 430 |
-| 3 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 401 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 351 |
-| 5 | [exo-explore/exo](https://github.com/exo-explore/exo) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 286 |
+| 1 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 978 |
+| 2 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 577 |
+| 3 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 459 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 387 |
+| 5 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 352 |
 <!-- TOP10_END -->
 
 ---
