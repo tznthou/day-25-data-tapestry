@@ -10,12 +10,10 @@
 
     @keyframes breathe {
       0% {
-        opacity: var(--base-opacity, 0.7);
-        stroke-width: var(--base-width, 4);
+        opacity: 0.85;
       }
       100% {
-        opacity: calc(var(--base-opacity, 0.7) + 0.15);
-        stroke-width: calc(var(--base-width, 4) + 0.5);
+        opacity: 1;
       }
     }
 
