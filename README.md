@@ -111,6 +111,7 @@ flowchart TB
 | 🟡 Medium | 資料邊界檢查 | `safeMetrics` 提供預設值防護 |
 | 🟡 Medium | Cron 註解 | 改為中文說明「每日台灣時間 00:00 執行」 |
 | 🟡 Medium | README 更新失敗 | 失敗時 `process.exit(1)` 觸發通知 |
+| 🟡 Medium | Workflow 假失敗 | 移除自訂 commit，讓 Flat Data 統一處理 commit & push |
 
 ### 修復成效
 
@@ -119,6 +120,7 @@ flowchart TB
 - ✅ **安全強化**：防止 SVG 注入攻擊
 - ✅ **自動清理**：Repository 不會因 raw 檔案無限增長
 - ✅ **容錯處理**：Git push 失敗會自動重試
+- ✅ **狀態正確**：GitHub Actions 不再顯示假失敗
 
 ---
 
