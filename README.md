@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2025-12-27** • Python 主導 • 共 5,384 ⭐
+**2025-12-28** • Python 主導 • 共 3,795 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,482 |
-| 2 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,021 |
-| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 616 |
-| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 523 |
-| 5 | [bellard/mquickjs](https://github.com/bellard/mquickjs) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 516 |
+| 1 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,520 |
+| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 431 |
+| 3 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 448 |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 317 |
+| 5 | [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 205 |
 <!-- TOP10_END -->
 
 ---
