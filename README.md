@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2025-12-29** • Python 主導 • 共 3,278 ⭐
+**2025-12-30** • Python 主導 • 共 4,315 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 874 |
-| 2 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 581 |
-| 3 | [eooce/node-ws](https://github.com/eooce/node-ws) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 120 |
-| 4 | [blinkospace/blinko](https://github.com/blinkospace/blinko) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 340 |
-| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 271 |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,180 |
+| 2 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 743 |
+| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 391 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 337 |
+| 5 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 355 |
 <!-- TOP10_END -->
 
 ---
