@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2025-12-30** • Python 主導 • 共 4,315 ⭐
+**2025-12-31** • Python 主導 • 共 3,703 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,180 |
-| 2 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 743 |
-| 3 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 391 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 337 |
-| 5 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 355 |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,185 |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 435 |
+| 3 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 352 |
+| 4 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 276 |
+| 5 | [tw93/Mole](https://github.com/tw93/Mole) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 314 |
 <!-- TOP10_END -->
 
 ---
