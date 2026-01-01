@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-01** • Rust 主導 • 共 3,698 ⭐
+**2026-01-02** • Python 主導 • 共 2,630 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 634 |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 427 |
-| 3 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 489 |
-| 4 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 407 |
-| 5 | [sst/opencode](https://github.com/sst/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 328 |
+| 1 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 312 |
+| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 339 |
+| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 316 |
+| 4 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 320 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 257 |
 <!-- TOP10_END -->
 
 ---
