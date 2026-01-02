@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-02** • Python 主導 • 共 2,630 ⭐
+**2026-01-03** • Python 主導 • 共 3,890 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 312 |
-| 2 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 339 |
-| 3 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 316 |
-| 4 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 320 |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 257 |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 479 |
+| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 565 |
+| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square) | ⭐ 554 |
+| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 431 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 451 |
 <!-- TOP10_END -->
 
 ---
