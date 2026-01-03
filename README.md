@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-03** • Python 主導 • 共 3,890 ⭐
+**2026-01-04** • Python 主導 • 共 3,907 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 479 |
-| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 565 |
-| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square) | ⭐ 554 |
-| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 431 |
-| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 451 |
+| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 705 |
+| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 621 |
+| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square) | ⭐ 605 |
+| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 426 |
+| 5 | [usememos/memos](https://github.com/usememos/memos) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 352 |
 <!-- TOP10_END -->
 
 ---
