@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-04** • Python 主導 • 共 3,907 ⭐
+**2026-01-05** • Python 主導 • 共 3,764 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 705 |
-| 2 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 621 |
-| 3 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square) | ⭐ 605 |
-| 4 | [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 426 |
-| 5 | [usememos/memos](https://github.com/usememos/memos) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 352 |
+| 1 | [usememos/memos](https://github.com/usememos/memos) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 829 |
+| 2 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 444 |
+| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 430 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 373 |
+| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 338 |
 <!-- TOP10_END -->
 
 ---
