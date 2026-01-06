@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-06** • Python 主導 • 共 4,224 ⭐
+**2026-01-07** • TypeScript 主導 • 共 3,564 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 909 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 821 |
-| 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 401 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 354 |
-| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 333 |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 827 |
+| 2 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 405 |
+| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 448 |
+| 4 | [virattt/dexter](https://github.com/virattt/dexter) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 357 |
+| 5 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 332 |
 <!-- TOP10_END -->
 
 ---
