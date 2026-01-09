@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-09** • Python 主導 • 共 3,911 ⭐
+**2026-01-10** • Python 主導 • 共 3,862 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 792 |
-| 2 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 740 |
-| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 446 |
-| 4 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 314 |
-| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 286 |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 726 |
+| 2 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 579 |
+| 3 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 563 |
+| 4 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 327 |
+| 5 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 316 |
 <!-- TOP10_END -->
 
 ---
