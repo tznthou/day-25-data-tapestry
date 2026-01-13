@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-13** • Python 主導 • 共 5,049 ⭐
+**2026-01-14** • TypeScript 主導 • 共 4,003 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,375 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 644 |
-| 3 | [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 480 |
-| 4 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 441 |
-| 5 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 397 |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 832 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 569 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 360 |
+| 4 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 384 |
+| 5 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 325 |
 <!-- TOP10_END -->
 
 ---
