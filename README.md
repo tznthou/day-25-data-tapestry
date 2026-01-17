@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-17** • TypeScript 主導 • 共 6,237 ⭐
+**2026-01-18** • TypeScript 主導 • 共 3,706 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 1,193 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 836 |
-| 3 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 899 |
-| 4 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 752 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 796 |
+| 1 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 871 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 506 |
+| 3 | [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![Vue](https://img.shields.io/badge/-Vue-41b883?style=flat-square) | ⭐ 416 |
+| 4 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 457 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 335 |
 <!-- TOP10_END -->
 
 ---
