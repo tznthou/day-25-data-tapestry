@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-20** • Python 主導 • 共 6,510 ⭐
+**2026-01-21** • Python 主導 • 共 4,215 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,225 |
-| 2 | [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![Vue](https://img.shields.io/badge/-Vue-41b883?style=flat-square) | ⭐ 834 |
-| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 855 |
-| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 661 |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 377 |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 801 |
+| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 556 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 431 |
+| 4 | [21st-dev/1code](https://github.com/21st-dev/1code) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 454 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 418 |
 <!-- TOP10_END -->
 
 ---
