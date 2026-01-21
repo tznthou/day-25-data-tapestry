@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-21** • Python 主導 • 共 4,215 ⭐
+**2026-01-22** • TypeScript 主導 • 共 6,303 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 801 |
-| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 556 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 431 |
-| 4 | [21st-dev/1code](https://github.com/21st-dev/1code) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 454 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 418 |
+| 1 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,209 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,332 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 435 |
+| 4 | [different-ai/openwork](https://github.com/different-ai/openwork) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 443 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 395 |
 <!-- TOP10_END -->
 
 ---
