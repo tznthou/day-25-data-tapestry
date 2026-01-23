@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-23** • Python 主導 • 共 4,879 ⭐
+**2026-01-24** • TypeScript 主導 • 共 5,856 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,835 |
-| 2 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 557 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 481 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 437 |
-| 5 | [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 394 |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,930 |
+| 2 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 867 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 588 |
+| 4 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 565 |
+| 5 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 536 |
 <!-- TOP10_END -->
 
 ---
