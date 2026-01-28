@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-28** • Python 主導 • 共 11,454 ⭐
+**2026-01-29** • Python 主導 • 共 9,087 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 8,716 |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 527 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 478 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 348 |
-| 5 | [adenhq/hive](https://github.com/adenhq/hive) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 287 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,640 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 456 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 469 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 346 |
+| 5 | [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 290 |
 <!-- TOP10_END -->
 
 ---
