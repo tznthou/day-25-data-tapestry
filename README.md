@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-01-30** • Python 主導 • 共 8,081 ⭐
+**2026-01-31** • Python 主導 • 共 7,532 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,488 |
-| 2 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 451 |
-| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | ![Roff](https://img.shields.io/badge/-Roff-8b8b8b?style=flat-square) | ⭐ 382 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 409 |
-| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 348 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,945 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 254 |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | ![Roff](https://img.shields.io/badge/-Roff-8b8b8b?style=flat-square) | ⭐ 375 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 343 |
+| 5 | [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 317 |
 <!-- TOP10_END -->
 
 ---
