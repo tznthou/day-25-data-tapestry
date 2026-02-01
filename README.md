@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-01** • Python 主導 • 共 7,128 ⭐
+**2026-02-02** • Python 主導 • 共 7,524 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,293 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 246 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 276 |
-| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 265 |
-| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | ![Roff](https://img.shields.io/badge/-Roff-8b8b8b?style=flat-square) | ⭐ 258 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,090 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 393 |
+| 3 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | ![Lua](https://img.shields.io/badge/-Lua-8b8b8b?style=flat-square) | ⭐ 353 |
+| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 328 |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 184 |
 <!-- TOP10_END -->
 
 ---
