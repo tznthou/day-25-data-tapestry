@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-02** • Python 主導 • 共 7,524 ⭐
+**2026-02-03** • TypeScript 主導 • 共 7,782 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,090 |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 393 |
-| 3 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | ![Lua](https://img.shields.io/badge/-Lua-8b8b8b?style=flat-square) | ⭐ 353 |
-| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 328 |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 184 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,278 |
+| 2 | [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 444 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 495 |
+| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 507 |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 363 |
 <!-- TOP10_END -->
 
 ---
