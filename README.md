@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-05** • Python 主導 • 共 4,267 ⭐
+**2026-02-06** • Python 主導 • 共 4,618 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,515 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 618 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 404 |
-| 4 | [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 283 |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 278 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,509 |
+| 2 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 740 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 548 |
+| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 284 |
+| 5 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 303 |
 <!-- TOP10_END -->
 
 ---
