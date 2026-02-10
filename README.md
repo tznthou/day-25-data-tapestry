@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-09** • TypeScript 主導 • 共 5,592 ⭐
+**2026-02-10** • TypeScript 主導 • 共 6,052 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,417 |
-| 2 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,241 |
-| 3 | [openai/skills](https://github.com/openai/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 560 |
-| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 484 |
-| 5 | [virattt/dexter](https://github.com/virattt/dexter) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 418 |
+| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,517 |
+| 2 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,246 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 578 |
+| 4 | [mitchellh/vouch](https://github.com/mitchellh/vouch) | ![Nushell](https://img.shields.io/badge/-Nushell-8b8b8b?style=flat-square) | ⭐ 461 |
+| 5 | [pydantic/monty](https://github.com/pydantic/monty) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 446 |
 <!-- TOP10_END -->
 
 ---
