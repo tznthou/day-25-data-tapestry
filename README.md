@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-13** • TypeScript 主導 • 共 3,671 ⭐
+**2026-02-14** • Python 主導 • 共 2,903 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 981 |
-| 2 | [ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 349 |
-| 3 | [google/langextract](https://github.com/google/langextract) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 368 |
-| 4 | [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 386 |
-| 5 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 304 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 991 |
+| 2 | [tonyyont/peon-ping](https://github.com/tonyyont/peon-ping) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 333 |
+| 3 | [google/langextract](https://github.com/google/langextract) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 277 |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 211 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 219 |
 <!-- TOP10_END -->
 
 ---
