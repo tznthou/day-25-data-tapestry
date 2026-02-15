@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-15** • TypeScript 主導 • 共 2,653 ⭐
+**2026-02-16** • TypeScript 主導 • 共 4,963 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 885 |
-| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 485 |
-| 3 | [knadh/oat](https://github.com/knadh/oat) | ![CSS](https://img.shields.io/badge/-CSS-563d7c?style=flat-square) | ⭐ 198 |
-| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 192 |
-| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 151 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,011 |
+| 2 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 985 |
+| 3 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 821 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 528 |
+| 5 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 381 |
 <!-- TOP10_END -->
 
 ---
