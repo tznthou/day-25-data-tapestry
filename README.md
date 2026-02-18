@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-18** • Python 主導 • 共 4,762 ⭐
+**2026-02-19** • TypeScript 主導 • 共 4,198 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,350 |
-| 2 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,011 |
-| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 681 |
-| 4 | [alibaba/zvec](https://github.com/alibaba/zvec) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 429 |
-| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 282 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,122 |
+| 2 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 891 |
+| 3 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 367 |
+| 4 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 340 |
+| 5 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 310 |
 <!-- TOP10_END -->
 
 ---
