@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-22** • TypeScript 主導 • 共 2,828 ⭐
+**2026-02-23** • TypeScript 主導 • 共 4,306 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 687 |
-| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 593 |
-| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 462 |
-| 4 | [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 178 |
-| 5 | [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 191 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 946 |
+| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 712 |
+| 3 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 542 |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 580 |
+| 5 | [alibaba/zvec](https://github.com/alibaba/zvec) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 410 |
 <!-- TOP10_END -->
 
 ---
