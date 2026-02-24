@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-24** • TypeScript 主導 • 共 4,818 ⭐
+**2026-02-25** • TypeScript 主導 • 共 3,635 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,044 |
-| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 673 |
-| 3 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 578 |
-| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 583 |
-| 5 | [huggingface/skills](https://github.com/huggingface/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 524 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,085 |
+| 2 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 450 |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 451 |
+| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 302 |
+| 5 | [huggingface/skills](https://github.com/huggingface/skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 332 |
 <!-- TOP10_END -->
 
 ---
