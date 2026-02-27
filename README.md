@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-02-27** • TypeScript 主導 • 共 4,291 ⭐
+**2026-02-28** • TypeScript 主導 • 共 4,005 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,196 |
-| 2 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 708 |
-| 3 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 444 |
-| 4 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 394 |
-| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 313 |
+| 1 | [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,145 |
+| 2 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 478 |
+| 3 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 407 |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 402 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 335 |
 <!-- TOP10_END -->
 
 ---
