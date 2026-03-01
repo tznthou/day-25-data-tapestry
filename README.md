@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-01** • Python 主導 • 共 3,973 ⭐
+**2026-03-02** • Python 主導 • 共 5,993 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 762 |
-| 2 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 583 |
-| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 510 |
-| 4 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 427 |
-| 5 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 327 |
+| 1 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,713 |
+| 2 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 731 |
+| 3 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 652 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 522 |
+| 5 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 603 |
 <!-- TOP10_END -->
 
 ---
