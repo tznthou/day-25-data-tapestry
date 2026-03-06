@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-06** • TypeScript 主導 • 共 4,295 ⭐
+**2026-03-07** • Unknown 主導 • 共 4,112 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 699 |
-| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 714 |
-| 3 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 601 |
-| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 431 |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 388 |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 658 |
+| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 618 |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 645 |
+| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 462 |
+| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 444 |
 <!-- TOP10_END -->
 
 ---
