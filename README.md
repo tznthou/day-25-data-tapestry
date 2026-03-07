@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-07** • Unknown 主導 • 共 4,112 ⭐
+**2026-03-08** • TypeScript 主導 • 共 3,985 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 658 |
-| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 618 |
-| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 645 |
-| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 462 |
-| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 444 |
+| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 702 |
+| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 592 |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 490 |
+| 4 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 419 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 364 |
 <!-- TOP10_END -->
 
 ---
