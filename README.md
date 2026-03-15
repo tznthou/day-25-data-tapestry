@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-15** • Python 主導 • 共 4,012 ⭐
+**2026-03-16** • Python 主導 • 共 5,124 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 946 |
-| 2 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 567 |
-| 3 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 479 |
-| 4 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Zig](https://img.shields.io/badge/-Zig-8b8b8b?style=flat-square) | ⭐ 413 |
-| 5 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 318 |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,044 |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 855 |
+| 3 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 771 |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 595 |
+| 5 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Zig](https://img.shields.io/badge/-Zig-8b8b8b?style=flat-square) | ⭐ 447 |
 <!-- TOP10_END -->
 
 ---
