@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-18** • Python 主導 • 共 2,849 ⭐
+**2026-03-19** • Python 主導 • 共 3,475 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 501 |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 422 |
-| 3 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 299 |
-| 4 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 291 |
-| 5 | [calesthio/Crucix](https://github.com/calesthio/Crucix) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 262 |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 530 |
+| 2 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 534 |
+| 3 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 460 |
+| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 435 |
+| 5 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 325 |
 <!-- TOP10_END -->
 
 ---
