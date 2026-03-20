@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-20** • Python 主導 • 共 2,475 ⭐
+**2026-03-21** • TypeScript 主導 • 共 2,270 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 350 |
-| 2 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 305 |
-| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 288 |
-| 4 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 258 |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 259 |
+| 1 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 298 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 315 |
+| 3 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 268 |
+| 4 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 221 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 216 |
 <!-- TOP10_END -->
 
 ---
