@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-23** • Python 主導 • 共 4,593 ⭐
+**2026-03-24** • Python 主導 • 共 4,531 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 887 |
-| 2 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 618 |
-| 3 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 620 |
-| 4 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 423 |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 454 |
+| 1 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 835 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 639 |
+| 3 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 597 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 471 |
+| 5 | [pascalorg/editor](https://github.com/pascalorg/editor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 435 |
 <!-- TOP10_END -->
 
 ---
