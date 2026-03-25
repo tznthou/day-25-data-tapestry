@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-25** • TypeScript 主導 • 共 2,715 ⭐
+**2026-03-26** • Python 主導 • 共 2,094 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 483 |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 565 |
-| 3 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 386 |
-| 4 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 275 |
-| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 225 |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 490 |
+| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 311 |
+| 3 | [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 188 |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 208 |
+| 5 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 191 |
 <!-- TOP10_END -->
 
 ---
