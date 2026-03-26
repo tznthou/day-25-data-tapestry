@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-26** • Python 主導 • 共 2,094 ⭐
+**2026-03-27** • Python 主導 • 共 1,466 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 490 |
-| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 311 |
-| 3 | [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 188 |
-| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 208 |
-| 5 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 191 |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 293 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 263 |
+| 3 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 126 |
+| 4 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 123 |
+| 5 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 121 |
 <!-- TOP10_END -->
 
 ---
