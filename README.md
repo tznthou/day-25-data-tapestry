@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-03-31** • Python 主導 • 共 2,813 ⭐
+**2026-04-01** • Python 主導 • 共 1,959 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 597 |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 406 |
-| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 343 |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 290 |
-| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 239 |
+| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 478 |
+| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 277 |
+| 3 | [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 254 |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 228 |
+| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 193 |
 <!-- TOP10_END -->
 
 ---
