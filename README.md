@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-01** • Python 主導 • 共 1,959 ⭐
+**2026-04-02** • TypeScript 主導 • 共 3,497 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 478 |
-| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 277 |
-| 3 | [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 254 |
-| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 228 |
-| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 193 |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,133 |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 428 |
+| 3 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 350 |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 321 |
+| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 246 |
 <!-- TOP10_END -->
 
 ---
