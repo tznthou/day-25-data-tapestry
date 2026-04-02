@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-02** • TypeScript 主導 • 共 3,497 ⭐
+**2026-04-03** • TypeScript 主導 • 共 3,493 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,133 |
-| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 428 |
-| 3 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 350 |
-| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 321 |
-| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 246 |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 1,161 |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 410 |
+| 3 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 431 |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 382 |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 270 |
 <!-- TOP10_END -->
 
 ---
