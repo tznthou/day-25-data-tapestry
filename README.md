@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-05** • TypeScript 主導 • 共 2,727 ⭐
+**2026-04-06** • TypeScript 主導 • 共 4,732 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 491 |
-| 2 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 394 |
-| 3 | [0xGF/boneyard](https://github.com/0xGF/boneyard) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 300 |
-| 4 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 318 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 230 |
+| 1 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 1,274 |
+| 2 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 723 |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 605 |
+| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 389 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 358 |
 <!-- TOP10_END -->
 
 ---
