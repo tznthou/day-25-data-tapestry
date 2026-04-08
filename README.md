@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-08** • Python 主導 • 共 5,148 ⭐
+**2026-04-09** • Python 主導 • 共 4,268 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 1,679 |
-| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 686 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 650 |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 425 |
-| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 479 |
+| 1 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 1,130 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 924 |
+| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 837 |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 285 |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 232 |
 <!-- TOP10_END -->
 
 ---
