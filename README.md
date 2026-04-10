@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-10** • Python 主導 • 共 3,832 ⭐
+**2026-04-11** • Python 主導 • 共 4,485 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,011 |
-| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 848 |
-| 3 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 609 |
-| 4 | [multica-ai/multica](https://github.com/multica-ai/multica) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 240 |
-| 5 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 207 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,347 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 742 |
+| 3 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 615 |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 300 |
+| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 304 |
 <!-- TOP10_END -->
 
 ---
