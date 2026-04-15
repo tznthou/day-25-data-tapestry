@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-15** • Python 主導 • 共 4,238 ⭐
+**2026-04-16** • Python 主導 • 共 4,163 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,130 |
-| 2 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,016 |
-| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 398 |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 333 |
-| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 316 |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,263 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 778 |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 431 |
+| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 376 |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 311 |
 <!-- TOP10_END -->
 
 ---
