@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-19** • TypeScript 主導 • 共 2,265 ⭐
+**2026-04-20** • Python 主導 • 共 3,259 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 595 |
-| 2 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 235 |
-| 3 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | ![Verilog](https://img.shields.io/badge/-Verilog-8b8b8b?style=flat-square) | ⭐ 223 |
-| 4 | [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 202 |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 201 |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 915 |
+| 2 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | ![PLSQL](https://img.shields.io/badge/-PLSQL-8b8b8b?style=flat-square) | ⭐ 328 |
+| 3 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 344 |
+| 4 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 288 |
+| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 335 |
 <!-- TOP10_END -->
 
 ---
