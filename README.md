@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-21** • Python 主導 • 共 3,481 ⭐
+**2026-04-22** • Python 主導 • 共 2,582 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 953 |
-| 2 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 638 |
-| 3 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | ![PLSQL](https://img.shields.io/badge/-PLSQL-8b8b8b?style=flat-square) | ⭐ 317 |
-| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 301 |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 266 |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 782 |
+| 2 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 444 |
+| 3 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 351 |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 224 |
+| 5 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 168 |
 <!-- TOP10_END -->
 
 ---
