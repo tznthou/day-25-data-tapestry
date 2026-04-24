@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-24** • Python 主導 • 共 1,768 ⭐
+**2026-04-25** • Python 主導 • 共 1,328 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 457 |
-| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 218 |
-| 3 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 266 |
-| 4 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 118 |
-| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 149 |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 261 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 141 |
+| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 140 |
+| 4 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 137 |
+| 5 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 138 |
 <!-- TOP10_END -->
 
 ---
