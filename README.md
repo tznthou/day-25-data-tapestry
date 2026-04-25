@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-25** • Python 主導 • 共 1,328 ⭐
+**2026-04-26** • TypeScript 主導 • 共 1,729 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 261 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 141 |
-| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 140 |
-| 4 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 137 |
-| 5 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 138 |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 592 |
+| 2 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 191 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 178 |
+| 4 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 171 |
+| 5 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 158 |
 <!-- TOP10_END -->
 
 ---
