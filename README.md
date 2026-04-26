@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-26** • TypeScript 主導 • 共 1,729 ⭐
+**2026-04-27** • Python 主導 • 共 3,682 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 592 |
-| 2 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 191 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 178 |
-| 4 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 171 |
-| 5 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 158 |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,005 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 613 |
+| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 552 |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 444 |
+| 5 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 217 |
 <!-- TOP10_END -->
 
 ---
