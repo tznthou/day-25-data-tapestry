@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-04-29** • Python 主導 • 共 1,534 ⭐
+**2026-04-30** • Python 主導 • 共 2,504 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 564 |
-| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 181 |
-| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 134 |
-| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 130 |
-| 5 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 119 |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,153 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 608 |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 143 |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 119 |
+| 5 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 105 |
 <!-- TOP10_END -->
 
 ---
