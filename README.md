@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-01** • Python 主導 • 共 1,810 ⭐
+**2026-05-02** • Unknown 主導 • 共 1,092 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 611 |
-| 2 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 626 |
-| 3 | [openai/symphony](https://github.com/openai/symphony) | ![Elixir](https://img.shields.io/badge/-Elixir-8b8b8b?style=flat-square) | ⭐ 95 |
-| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 88 |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 70 |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 344 |
+| 2 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 333 |
+| 3 | [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 66 |
+| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 63 |
+| 5 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 55 |
 <!-- TOP10_END -->
 
 ---
