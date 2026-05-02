@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-02** • Unknown 主導 • 共 1,092 ⭐
+**2026-05-03** • Python 主導 • 共 2,124 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 344 |
-| 2 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 333 |
-| 3 | [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 66 |
-| 4 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 63 |
-| 5 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 55 |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 503 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 226 |
+| 3 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 283 |
+| 4 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 222 |
+| 5 | [withastro/flue](https://github.com/withastro/flue) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 193 |
 <!-- TOP10_END -->
 
 ---
