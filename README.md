@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-05** • Python 主導 • 共 2,531 ⭐
+**2026-05-06** • Python 主導 • 共 1,189 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 544 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 376 |
-| 3 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 285 |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 273 |
-| 5 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 241 |
+| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 291 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 206 |
+| 3 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 103 |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 96 |
+| 5 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 91 |
 <!-- TOP10_END -->
 
 ---
