@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-08** • Python 主導 • 共 990 ⭐
+**2026-05-09** • Python 主導 • 共 973 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 222 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 151 |
-| 3 | [modem-dev/hunk](https://github.com/modem-dev/hunk) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 149 |
-| 4 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 84 |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 81 |
+| 1 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 252 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 136 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 123 |
+| 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 89 |
+| 5 | [decolua/9router](https://github.com/decolua/9router) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 85 |
 <!-- TOP10_END -->
 
 ---
