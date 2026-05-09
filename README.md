@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-09** • Python 主導 • 共 973 ⭐
+**2026-05-10** • Python 主導 • 共 1,702 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 252 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 136 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 123 |
-| 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 89 |
-| 5 | [decolua/9router](https://github.com/decolua/9router) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 85 |
+| 1 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 396 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 327 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 185 |
+| 4 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 132 |
+| 5 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 136 |
 <!-- TOP10_END -->
 
 ---
