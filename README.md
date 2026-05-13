@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-13** • TypeScript 主導 • 共 931 ⭐
+**2026-05-14** • Python 主導 • 共 655 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 111 |
-| 2 | [floci-io/floci](https://github.com/floci-io/floci) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 118 |
-| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 109 |
-| 4 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 102 |
-| 5 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 106 |
+| 1 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 122 |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 88 |
+| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 86 |
+| 4 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 72 |
+| 5 | [floci-io/floci](https://github.com/floci-io/floci) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 63 |
 <!-- TOP10_END -->
 
 ---
