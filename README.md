@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-16** • Python 主導 • 共 721 ⭐
+**2026-05-17** • Rust 主導 • 共 988 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 124 |
-| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 103 |
-| 3 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 89 |
-| 4 | [antirez/ds4](https://github.com/antirez/ds4) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 69 |
-| 5 | [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 62 |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 182 |
+| 2 | [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 187 |
+| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 90 |
+| 4 | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 77 |
+| 5 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 81 |
 <!-- TOP10_END -->
 
 ---
