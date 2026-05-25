@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-05-25** • Python 主導 • 共 2,565 ⭐
+**2026-05-26** • Python 主導 • 共 1,939 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 652 |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 516 |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 279 |
-| 4 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 250 |
-| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 156 |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 606 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 328 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 327 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 142 |
+| 5 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 101 |
 <!-- TOP10_END -->
 
 ---
