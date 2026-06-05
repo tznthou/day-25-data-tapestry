@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-05** • Python 主導 • 共 847 ⭐
+**2026-06-06** • Python 主導 • 共 642 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 335 |
-| 2 | [unicity-astrid/astrid](https://github.com/unicity-astrid/astrid) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 199 |
-| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 117 |
-| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 58 |
-| 5 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 28 |
+| 1 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 242 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 88 |
+| 3 | [unicity-astrid/astrid](https://github.com/unicity-astrid/astrid) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 88 |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 65 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 36 |
 <!-- TOP10_END -->
 
 ---
