@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-09** • Python 主導 • 共 1,005 ⭐
+**2026-06-10** • Python 主導 • 共 365 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 247 |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 138 |
-| 3 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 125 |
-| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 90 |
-| 5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 68 |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 77 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 52 |
+| 3 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 48 |
+| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 40 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 35 |
 <!-- TOP10_END -->
 
 ---
