@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-11** • Python 主導 • 共 325 ⭐
+**2026-06-12** • Python 主導 • 共 334 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 74 |
-| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 41 |
-| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 31 |
-| 4 | [santifer/career-ops](https://github.com/santifer/career-ops) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 24 |
-| 5 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 28 |
+| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 85 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 37 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 34 |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 27 |
+| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 28 |
 <!-- TOP10_END -->
 
 ---
