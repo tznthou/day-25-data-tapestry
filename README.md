@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-13** • Python 主導 • 共 302 ⭐
+**2026-06-14** • TypeScript 主導 • 共 341 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [apple/container](https://github.com/apple/container) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 105 |
-| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 38 |
-| 3 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 24 |
-| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 23 |
-| 5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 23 |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 63 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 44 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 34 |
+| 4 | [apple/container](https://github.com/apple/container) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 63 |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 33 |
 <!-- TOP10_END -->
 
 ---
