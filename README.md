@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-14** • TypeScript 主導 • 共 341 ⭐
+**2026-06-15** • Python 主導 • 共 517 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 63 |
-| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 44 |
-| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 34 |
-| 4 | [apple/container](https://github.com/apple/container) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 63 |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 33 |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 102 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 89 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 51 |
+| 4 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 45 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 42 |
 <!-- TOP10_END -->
 
 ---
