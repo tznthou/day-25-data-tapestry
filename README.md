@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-17** • Python 主導 • 共 400 ⭐
+**2026-06-18** • Python 主導 • 共 327 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 191 |
-| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 49 |
-| 3 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 27 |
-| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 22 |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 23 |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 161 |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 41 |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 22 |
+| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 22 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 17 |
 <!-- TOP10_END -->
 
 ---
