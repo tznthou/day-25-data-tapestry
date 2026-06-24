@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-24** • Python 主導 • 共 419 ⭐
+**2026-06-25** • Python 主導 • 共 233 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 92 |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 88 |
-| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 62 |
-| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 39 |
-| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 36 |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 54 |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 42 |
+| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 21 |
+| 4 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 21 |
+| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 21 |
 <!-- TOP10_END -->
 
 ---
