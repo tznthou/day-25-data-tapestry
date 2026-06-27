@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-06-27** • Python 主導 • 共 236 ⭐
+**2026-06-28** • Python 主導 • 共 414 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 40 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 24 |
-| 3 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 26 |
-| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 27 |
-| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 23 |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 85 |
+| 2 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 76 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 55 |
+| 4 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 38 |
+| 5 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 33 |
 <!-- TOP10_END -->
 
 ---
