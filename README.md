@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-02** • Python 主導 • 共 68 ⭐
+**2026-07-03** • Python 主導 • 共 352 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 12 |
-| 2 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 11 |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 9 |
-| 4 | [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 8 |
-| 5 | [usestrix/strix](https://github.com/usestrix/strix) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 65 |
+| 2 | [erincatto/box3d](https://github.com/erincatto/box3d) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 56 |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 36 |
+| 4 | [facebook/astryx](https://github.com/facebook/astryx) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 34 |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 31 |
 <!-- TOP10_END -->
 
 ---
