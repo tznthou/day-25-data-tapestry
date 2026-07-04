@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-04** • Python 主導 • 共 191 ⭐
+**2026-07-05** • TypeScript 主導 • 共 257 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 50 |
-| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 19 |
-| 3 | [facebook/astryx](https://github.com/facebook/astryx) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 18 |
-| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 10 |
-| 5 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 17 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 41 |
+| 2 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 35 |
+| 3 | [erincatto/box3d](https://github.com/erincatto/box3d) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 36 |
+| 4 | [facebook/astryx](https://github.com/facebook/astryx) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 31 |
+| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 22 |
 <!-- TOP10_END -->
 
 ---
