@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-06** • Python 主導 • 共 416 ⭐
+**2026-07-07** • TypeScript 主導 • 共 107 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 71 |
-| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 55 |
-| 3 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 35 |
-| 4 | [usestrix/strix](https://github.com/usestrix/strix) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 45 |
-| 5 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 32 |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 22 |
+| 2 | [teamchong/pxpipe](https://github.com/teamchong/pxpipe) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 14 |
+| 3 | [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 14 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 11 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 7 |
 <!-- TOP10_END -->
 
 ---
