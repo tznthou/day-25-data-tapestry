@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-10** • Python 主導 • 共 46 ⭐
+**2026-07-11** • TypeScript 主導 • 共 43 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 8 |
-| 2 | [generative-computing/mellea](https://github.com/generative-computing/mellea) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
-| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
-| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 6 |
-| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 13 |
+| 2 | [vercel-labs/native](https://github.com/vercel-labs/native) | ![Zig](https://img.shields.io/badge/-Zig-8b8b8b?style=flat-square) | ⭐ 6 |
+| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 5 |
+| 4 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2 |
+| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
