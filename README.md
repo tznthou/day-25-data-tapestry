@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-11** • TypeScript 主導 • 共 43 ⭐
+**2026-07-12** • TypeScript 主導 • 共 25 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 13 |
-| 2 | [vercel-labs/native](https://github.com/vercel-labs/native) | ![Zig](https://img.shields.io/badge/-Zig-8b8b8b?style=flat-square) | ⭐ 6 |
-| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 5 |
-| 4 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2 |
-| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3 |
+| 1 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 6 |
+| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 3 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | ![Dockerfile](https://img.shields.io/badge/-Dockerfile-8b8b8b?style=flat-square) | ⭐ 1 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
