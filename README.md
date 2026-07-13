@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-13** • Python 主導 • 共 23 ⭐
+**2026-07-14** • Python 主導 • 共 33 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [x4gKing/X4G](https://github.com/x4gKing/X4G) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
-| 2 | [malisper/pgrust](https://github.com/malisper/pgrust) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
-| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 4 | [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 5 | [IR-NETLIFY/zeus](https://github.com/IR-NETLIFY/zeus) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2 |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
+| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 5 |
+| 3 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
