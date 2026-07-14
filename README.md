@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-14** • Python 主導 • 共 33 ⭐
+**2026-07-15** • Python 主導 • 共 26 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
-| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 5 |
-| 3 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
-| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 5 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 1 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 4 |
+| 2 | [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 3 |
+| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
+| 4 | [raroque/boop-agent](https://github.com/raroque/boop-agent) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
