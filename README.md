@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-15** • Python 主導 • 共 26 ⭐
+**2026-07-16** • TypeScript 主導 • 共 59 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 4 |
-| 2 | [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 3 |
-| 3 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
-| 4 | [raroque/boop-agent](https://github.com/raroque/boop-agent) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
-| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 8 |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 9 |
+| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7 |
+| 4 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 6 |
+| 5 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 5 |
 <!-- TOP10_END -->
 
 ---
