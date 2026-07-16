@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-16** • TypeScript 主導 • 共 59 ⭐
+**2026-07-17** • Python 主導 • 共 41 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 8 |
-| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 9 |
-| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7 |
-| 4 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 6 |
-| 5 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 5 |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 9 |
+| 2 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 4 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 5 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4 |
 <!-- TOP10_END -->
 
 ---
