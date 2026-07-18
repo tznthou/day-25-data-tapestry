@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-18** • JavaScript 主導 • 共 101 ⭐
+**2026-07-19** • TypeScript 主導 • 共 35 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 30 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 11 |
-| 3 | [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 10 |
-| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 10 |
-| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 9 |
+| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 6 |
+| 2 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 5 |
+| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 3 |
+| 4 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
+| 5 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
 <!-- TOP10_END -->
 
 ---
