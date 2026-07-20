@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-20** • TypeScript 主導 • 共 58 ⭐
+**2026-07-21** • Python 主導 • 共 37 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [nullclaw/nullhub](https://github.com/nullclaw/nullhub) | ![Zig](https://img.shields.io/badge/-Zig-8b8b8b?style=flat-square) | ⭐ 6 |
-| 2 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
-| 3 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
-| 4 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
-| 5 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 3 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
+| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 3 |
+| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
 <!-- TOP10_END -->
 
 ---
