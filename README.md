@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-23** • Python 主導 • 共 41 ⭐
+**2026-07-24** • Python 主導 • 共 75 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 8 |
-| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
-| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
-| 4 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4 |
-| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 1 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 16 |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 13 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
+| 4 | [oblien/openship](https://github.com/oblien/openship) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
 <!-- TOP10_END -->
 
 ---
