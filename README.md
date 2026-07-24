@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-24** • Python 主導 • 共 75 ⭐
+**2026-07-25** • TypeScript 主導 • 共 54 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 16 |
-| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 13 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 4 | [oblien/openship](https://github.com/oblien/openship) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
+| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 12 |
+| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 9 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
+| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
+| 5 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
