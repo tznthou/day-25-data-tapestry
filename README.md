@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-26** • TypeScript 主導 • 共 54 ⭐
+**2026-07-27** • TypeScript 主導 • 共 52 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 12 |
-| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 9 |
-| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
-| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
-| 5 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 9 |
+| 2 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 7 |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 6 |
+| 5 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
 <!-- TOP10_END -->
 
 ---
