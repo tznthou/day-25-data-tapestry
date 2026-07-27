@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-27** • TypeScript 主導 • 共 52 ⭐
+**2026-07-28** • Python 主導 • 共 49 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 9 |
-| 2 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 7 |
-| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
-| 4 | [floci-io/floci](https://github.com/floci-io/floci) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 6 |
-| 5 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
+| 1 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 8 |
+| 2 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
+| 3 | [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 6 |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 5 |
+| 5 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 6 |
 <!-- TOP10_END -->
 
 ---
