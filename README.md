@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-07-31** • TypeScript 主導 • 共 49 ⭐
+**2026-08-01** • Python 主導 • 共 31 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 10 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 3 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
-| 4 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
-| 5 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
+| 1 | [block/buzz](https://github.com/block/buzz) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 5 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
+| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 3 |
+| 4 | [WilonityLoader/Wilonity](https://github.com/WilonityLoader/Wilonity) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 3 |
+| 5 | [andrewyng/openworker](https://github.com/andrewyng/openworker) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
