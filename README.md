@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-03** • TypeScript 主導 • 共 37 ⭐
+**2026-08-04** • Python 主導 • 共 30 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 10 |
-| 2 | [yc-software/qm](https://github.com/yc-software/qm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
-| 3 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4 |
-| 4 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
-| 5 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 3 |
+| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 6 |
+| 2 | [yc-software/qm](https://github.com/yc-software/qm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
+| 3 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
+| 5 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
 ---
