@@ -25,14 +25,14 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-06** • Python 主導 • 共 35 ⭐
+**2026-08-08** • Python 主導 • 共 31 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 7 |
-| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
-| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
-| 4 | [browser-use/video-use](https://github.com/browser-use/video-use) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 1 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4 |
+| 2 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 4 | [brightdata/cli](https://github.com/brightdata/cli) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3 |
 | 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 3 |
 <!-- TOP10_END -->
 
