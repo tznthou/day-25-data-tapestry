@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-13** • TypeScript 主導 • 共 93 ⭐
+**2026-08-14** • Python 主導 • 共 76 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [spinabot/brigade](https://github.com/spinabot/brigade) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 21 |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 19 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 4 | [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 7 |
-| 5 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 6 |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 23 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 16 |
+| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 8 |
+| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
+| 5 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4 |
 <!-- TOP10_END -->
 
 ---
