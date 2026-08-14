@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-14** • Python 主導 • 共 76 ⭐
+**2026-08-15** • TypeScript 主導 • 共 75 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 23 |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 16 |
-| 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 8 |
-| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
-| 5 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4 |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 18 |
+| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 15 |
+| 3 | [arvin341az-glitch/RVG](https://github.com/arvin341az-glitch/RVG) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4 |
+| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
+| 5 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
 <!-- TOP10_END -->
 
 ---
