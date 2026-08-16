@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-16** • Python 主導 • 共 46 ⭐
+**2026-08-17** • TypeScript 主導 • 共 31 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 10 |
-| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 7 |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
-| 5 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 7 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 5 |
+| 3 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
+| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 3 |
+| 5 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2 |
 <!-- TOP10_END -->
 
 ---
