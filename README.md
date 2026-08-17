@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-17** • TypeScript 主導 • 共 31 ⭐
+**2026-08-18** • Python 主導 • 共 28 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 7 |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 5 |
-| 3 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
-| 4 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 3 |
-| 5 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2 |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
+| 2 | [amirappleidfd-stack/spider--panel](https://github.com/amirappleidfd-stack/spider--panel) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1 |
+| 3 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
+| 4 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 5 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
 <!-- TOP10_END -->
 
 ---
