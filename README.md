@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-18** • Python 主導 • 共 28 ⭐
+**2026-08-19** • TypeScript 主導 • 共 48 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 2 | [amirappleidfd-stack/spider--panel](https://github.com/amirappleidfd-stack/spider--panel) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1 |
-| 3 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
-| 4 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 5 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2 |
+| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 12 |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
+| 3 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5 |
+| 4 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5 |
+| 5 | [openTrinity/mycontext](https://github.com/openTrinity/mycontext) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4 |
 <!-- TOP10_END -->
 
 ---
