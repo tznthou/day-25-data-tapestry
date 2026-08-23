@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-23** • Python 主導 • 共 103 ⭐
+**2026-08-24** • Python 主導 • 共 20 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 15 |
-| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 14 |
-| 3 | [agentrhq/webcmd](https://github.com/agentrhq/webcmd) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 8 |
-| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 11 |
-| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 12 |
+| 1 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 3 |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
+| 3 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2 |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2 |
+| 5 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2 |
 <!-- TOP10_END -->
 
 ---
