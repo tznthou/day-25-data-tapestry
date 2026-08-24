@@ -105,7 +105,7 @@ interface RepoSlice {
   starsTotal?: number;
 }
 
-async function fetchRealStars(name: string, headers: HeadersInit): Promise<number | null> {
+async function fetchRealStars(name: string, headers: Record<string, string>): Promise<number | null> {
   // One retry: the API answers 504 often enough under parallel load
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -124,7 +124,7 @@ async function fetchRealStars(name: string, headers: HeadersInit): Promise<numbe
 }
 
 const githubToken = Deno.env.get("GITHUB_TOKEN");
-const headers: HeadersInit = {
+const headers: Record<string, string> = {
   "Accept": "application/vnd.github+json",
   "User-Agent": "data-tapestry-weaver",
 };
