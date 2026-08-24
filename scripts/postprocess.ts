@@ -83,21 +83,80 @@ const topRepos = rows.slice(0, 10).map((repo: TrendingRepo) => {
     name,
     language: repo.primary_language || "Unknown",
     color: languageColors[repo.primary_language || ""] || "#8b8b8b",
-    stars: Math.max(0, stars), // Ensure non-negative
+    stars: Math.max(0, stars), // Upstream's own figure — see starsTotal below
     score: Math.max(0, score), // Ensure non-negative
   };
 });
 
+// H05: Upstream's `stars` field went bad — since 2026-05 it reports single
+// digits for repos that genuinely have tens of thousands of stars (measured:
+// firecrawl/anydoc reported as 2, actually 18,100). Upstream still *picks* the
+// right repos, so we keep its selection and fetch the real count ourselves.
+//
+// Note the two figures mean different things: `stars` was a daily delta,
+// `starsTotal` is the repo's lifetime count. Both are recorded so the tapestry
+// can tell them apart instead of silently mixing scales.
+interface RepoSlice {
+  name: string;
+  language: string;
+  color: string;
+  stars: number;
+  score: number;
+  starsTotal?: number;
+}
+
+async function fetchRealStars(name: string, headers: HeadersInit): Promise<number | null> {
+  // One retry: the API answers 504 often enough under parallel load
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(`https://api.github.com/repos/${name}`, { headers });
+      if (res.ok) {
+        const data = await res.json();
+        return typeof data.stargazers_count === 'number' ? data.stargazers_count : null;
+      }
+      if (res.status === 404 || res.status === 403) return null; // Gone or rate-limited: no point retrying
+    } catch {
+      // Network hiccup — fall through to the retry
+    }
+    if (attempt === 0) await new Promise(r => setTimeout(r, 1500));
+  }
+  return null;
+}
+
+const githubToken = Deno.env.get("GITHUB_TOKEN");
+const headers: HeadersInit = {
+  "Accept": "application/vnd.github+json",
+  "User-Agent": "data-tapestry-weaver",
+};
+if (githubToken) headers["Authorization"] = `Bearer ${githubToken}`;
+
+const enriched: RepoSlice[] = await Promise.all(
+  topRepos.map(async (repo: RepoSlice) => {
+    const starsTotal = await fetchRealStars(repo.name, headers);
+    return starsTotal === null ? repo : { ...repo, starsTotal };
+  })
+);
+
+const enrichedCount = enriched.filter(r => r.starsTotal !== undefined).length;
+console.log(`⭐ Real star counts: ${enrichedCount}/${enriched.length} (token: ${githubToken ? "yes" : "no"})`);
+
 // Compute daily aggregate metrics for the thread
-const totalStars = topRepos.reduce((sum: number, r: { stars: number }) => sum + r.stars, 0);
+const totalStars = enriched.reduce((sum: number, r: RepoSlice) => sum + r.stars, 0);
+
+// Lifetime star counts, only when we actually resolved every repo — a partial
+// sum would understate the day and put a false dip in the cloth.
+const totalStarsAbsolute = enrichedCount === enriched.length
+  ? enriched.reduce((sum: number, r: RepoSlice) => sum + (r.starsTotal || 0), 0)
+  : null;
+
 // H04: Prevent division by zero
-const avgScore = topRepos.length > 0
-  ? topRepos.reduce((sum: number, r: { score: number }) => sum + r.score, 0) / topRepos.length
+const avgScore = enriched.length > 0
+  ? enriched.reduce((sum: number, r: RepoSlice) => sum + r.score, 0) / enriched.length
   : 0;
 
 // Count languages for color distribution
 const languageCounts: Record<string, number> = {};
-topRepos.forEach((r: { language: string }) => {
+enriched.forEach((r: RepoSlice) => {
   languageCounts[r.language] = (languageCounts[r.language] || 0) + 1;
 });
 
@@ -110,12 +169,13 @@ const dailySlice = {
   date: today,
   metrics: {
     totalStars,
+    ...(totalStarsAbsolute !== null ? { totalStarsAbsolute } : {}),
     avgScore: Math.round(avgScore * 100) / 100,
     dominantLanguage,
     dominantColor: languageColors[dominantLanguage] || "#8b8b8b",
     languageDistribution: languageCounts,
   },
-  topRepos,
+  topRepos: enriched,
 };
 
 // Write to daily archive
@@ -133,6 +193,7 @@ await writeJSON(archiveFilename, dailySlice);
 // Also update the latest.json for quick access
 await writeJSON("data/latest.json", dailySlice);
 
-console.log(`✨ Processed ${topRepos.length} repos for ${today}`);
+console.log(`✨ Processed ${enriched.length} repos for ${today}`);
 console.log(`   Dominant: ${dominantLanguage} (${dailySlice.metrics.dominantColor})`);
-console.log(`   Total Stars: ${totalStars}`);
+console.log(`   Upstream stars: ${totalStars}`);
+console.log(`   Real stars: ${totalStarsAbsolute !== null ? totalStarsAbsolute : "unavailable (partial fetch)"}`);

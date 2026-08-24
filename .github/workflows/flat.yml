@@ -36,6 +36,11 @@ jobs:
 
       - name: Fetch daily trending data
         uses: githubocto/flat@v3
+        # postprocess re-queries GitHub for real star counts; without a token it
+        # falls back to unauthenticated (60 req/hr) and may resolve only part of
+        # the list, in which case that day records no absolute figure.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           http_url: https://api.ossinsight.io/v1/trends/repos?period=past_24_hours
           # H03: Use fixed filename to prevent unbounded growth
