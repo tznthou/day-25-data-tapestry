@@ -2,8 +2,8 @@
  * The Data Tapestry - SVG Weaving Engine
  *
  * Reads all daily data slices and weaves them into a living SVG tapestry.
- * Each day becomes a horizontal thread with colors and textures
- * derived from GitHub trending data.
+ * Recent days get one thread each; older days are woven tighter — grouped
+ * into weeks, then months — so the cloth stays readable as history grows.
  */
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
@@ -23,13 +23,31 @@ function escapeXml(str) {
 // Configuration
 const CONFIG = {
   width: 800,
-  threadHeight: 12,
-  maxThreads: 90, // ~3 months of history
   padding: 20,
+  labelGutter: 46, // Right-hand strip reserved for date labels
+
+  // Time tiers: recent history stays daily, older history is woven tighter.
+  // `span` = how many days from today this tier covers.
+  tiers: [
+    { name: 'day', span: 30, height: 12, bucket: 1 },
+    { name: 'week', span: 90, height: 10, bucket: 7 },
+    { name: 'month', span: Infinity, height: 8, bucket: 'month' },
+  ],
+
+  // Visual ranges — thread properties are scaled relative to the data we
+  // actually have, so the tapestry never saturates as GitHub's numbers drift.
+  strokeRange: [2.8, 6], // Thinnest / thickest thread
+  peakRange: [4, 9], // Number of wave crests across the cloth
+  // Wave height as a fraction of the room left in the lane after the stroke.
+  // The floor keeps the quietest day a wave, not a straight line.
+  amplitudeRange: [0.45, 1],
+  pointsPerCycle: 16, // Sampling density — below ~8 the sine folds into sawtooth
+
+  maxDays: 3650, // Read guard: ~10 years of slices
   animationDuration: '8s',
 };
 
-// Read all daily data files
+// Read all daily data files (most recent first)
 function loadDailyData() {
   const dailyDir = 'data/daily';
 
@@ -41,79 +59,217 @@ function loadDailyData() {
   const files = readdirSync(dailyDir)
     .filter(f => f.endsWith('.json'))
     .sort()
-    .reverse() // Most recent first
-    .slice(0, CONFIG.maxThreads);
+    .reverse()
+    .slice(0, CONFIG.maxDays);
 
-  return files.map(f => {
-    const content = readFileSync(join(dailyDir, f), 'utf-8');
-    return JSON.parse(content);
-  });
+  return files
+    .map(f => {
+      const content = readFileSync(join(dailyDir, f), 'utf-8');
+      try {
+        return JSON.parse(content);
+      } catch {
+        console.warn(`⚠️  Skipping malformed slice: ${f}`);
+        return null;
+      }
+    })
+    .filter(Boolean);
 }
 
-// Generate a wave path for a thread
-function generateWavePath(y, metrics, index, width) {
-  const { avgScore, totalStars } = metrics;
+// Merge several daily slices into one thread's worth of data
+function mergeSlices(slices) {
+  const n = slices.length;
 
-  // Normalize values for wave generation
-  const amplitude = Math.min(avgScore / 500, 1) * 4; // Wave height based on score
-  const frequency = Math.max(totalStars / 1000, 0.5); // Wave frequency based on stars
-  const phase = index * 0.5; // Phase shift per day
+  // Averages, not sums — a week's thread must stay comparable to a day's
+  const totalStars = slices.reduce((s, d) => s + Math.max(0, d.metrics?.totalStars || 0), 0) / n;
+  const avgScore = slices.reduce((s, d) => s + Math.max(0, d.metrics?.avgScore || 0), 0) / n;
 
+  // Two eras of star data live in this archive: upstream's daily delta (which
+  // broke in 2026-05) and the real lifetime counts we started fetching after.
+  // They differ by more than an order of magnitude, so a thread commits to one
+  // basis and is scaled only against threads on the same basis.
+  const abs = slices.filter(d => typeof d.metrics?.totalStarsAbsolute === 'number');
+  const onAbsolute = abs.length === n;
+  const starMetric = onAbsolute
+    ? abs.reduce((s, d) => s + d.metrics.totalStarsAbsolute, 0) / n
+    : totalStars;
+
+  const languageDistribution = {};
+  for (const d of slices) {
+    for (const [lang, count] of Object.entries(d.metrics?.languageDistribution || {})) {
+      languageDistribution[lang] = (languageDistribution[lang] || 0) + count;
+    }
+  }
+
+  const dominantLanguage =
+    Object.entries(languageDistribution).sort((a, b) => b[1] - a[1])[0]?.[0] || 'Unknown';
+
+  // Newest slice in the bucket wins for the fallback colour
+  const dominantColor =
+    slices.find(d => d.metrics?.dominantLanguage === dominantLanguage)?.metrics?.dominantColor ||
+    slices[0]?.metrics?.dominantColor ||
+    '#8b8b8b';
+
+  return {
+    starsBasis: onAbsolute ? 'absolute' : 'upstream',
+    metrics: {
+      totalStars, starMetric, avgScore,
+      dominantLanguage, dominantColor, languageDistribution,
+    },
+    topRepos: slices.flatMap(d => d.topRepos || []),
+  };
+}
+
+// Which tier does a slice `age` days old belong to, and where does that tier start?
+function tierFor(age) {
+  let startAge = 0;
+  for (const tier of CONFIG.tiers) {
+    if (age < tier.span) return { tier, startAge };
+    startAge = tier.span;
+  }
+  const last = CONFIG.tiers[CONFIG.tiers.length - 1];
+  return { tier: last, startAge };
+}
+
+// Which bucket within a tier does this slice fall into?
+function bucketKey(tier, slice, age, startAge) {
+  if (tier.bucket === 1) return slice.date;
+  if (tier.bucket === 'month') return slice.date.slice(0, 7);
+  return `w${Math.floor((age - startAge) / tier.bucket)}`;
+}
+
+// Short, gutter-sized label for a bucket
+function labelFor(tier, slices) {
+  const newest = slices[0]?.date || '';
+  const oldest = slices[slices.length - 1]?.date || newest;
+
+  if (tier.name === 'day') return newest.slice(5); // 12-27
+  if (tier.name === 'month') return newest.slice(0, 7); // 2025-12 — keep the year, MM-DD is next door
+  return slices.length > 1 ? `${oldest.slice(5)}+` : newest.slice(5); // 12-21+
+}
+
+// Collapse the daily slices into threads, tier by tier.
+// Age is measured in real days from the newest slice — not by array position —
+// so a gap in the data stays a gap instead of silently closing up.
+function buildThreads(dailyData) {
+  if (dailyData.length === 0) return [];
+
+  const newestTime = Date.parse(dailyData[0].date);
+  if (Number.isNaN(newestTime)) {
+    console.warn('⚠️  Newest slice has no usable date; falling back to array order');
+  }
+
+  const buckets = new Map(); // Insertion order = newest first
+
+  for (const slice of dailyData) {
+    const time = Date.parse(slice.date);
+    const age = Number.isNaN(time) || Number.isNaN(newestTime)
+      ? 0
+      : Math.round((newestTime - time) / 86400000);
+
+    const { tier, startAge } = tierFor(age);
+    const key = `${tier.name}:${bucketKey(tier, slice, age, startAge)}`;
+
+    if (!buckets.has(key)) buckets.set(key, { tier, slices: [] });
+    buckets.get(key).slices.push(slice);
+  }
+
+  return [...buckets.values()].map(({ tier, slices }) => ({
+    tier,
+    label: labelFor(tier, slices),
+    days: slices.length,
+    dateRange: slices.length > 1
+      ? `${slices[slices.length - 1].date} ~ ${slices[0].date}`
+      : slices[0].date,
+    ...mergeSlices(slices),
+  }));
+}
+
+// Percentile of a sorted array (linear interpolation)
+function quantile(sorted, q) {
+  if (sorted.length === 0) return 0;
+  if (sorted.length === 1) return sorted[0];
+  const pos = (sorted.length - 1) * q;
+  const lo = Math.floor(pos);
+  const hi = Math.ceil(pos);
+  return sorted[lo] + (sorted[hi] - sorted[lo]) * (pos - lo);
+}
+
+// Normalise a metric to 0..1 on a log scale, clamped at the 10th/90th
+// percentile. Log, because the upstream numbers have swung by two orders of
+// magnitude (thousands of stars a day in January, dozens in August) — on a
+// linear scale every recent day would collapse onto the same thinnest thread.
+// Percentile clamping stops one freak day from flattening everything else.
+function makeNorm(values) {
+  const log = v => Math.log1p(Math.max(0, v));
+  const sorted = values.map(log).sort((a, b) => a - b);
+  const lo = quantile(sorted, 0.1);
+  const hi = quantile(sorted, 0.9);
+  const span = hi - lo;
+
+  return v => {
+    if (span < 1e-9) return 0.5; // All alike — sit in the middle
+    return Math.min(1, Math.max(0, (log(v) - lo) / span));
+  };
+}
+
+// Map a normalised value onto a visual range
+function lerp([min, max], t) {
+  return min + t * (max - min);
+}
+
+// Generate a wave path; sampling density follows the crest count so the sine
+// never folds into a sawtooth.
+function generateWavePath(y, amplitude, peaks, phase, x0, x1) {
+  const segments = Math.max(60, Math.ceil(peaks * CONFIG.pointsPerCycle));
   const points = [];
-  const segments = 50;
 
   for (let i = 0; i <= segments; i++) {
-    const x = CONFIG.padding + (i / segments) * (width - CONFIG.padding * 2);
-    const wave = Math.sin((i / segments) * Math.PI * frequency * 4 + phase) * amplitude;
-    points.push(`${x},${y + wave}`);
+    const t = i / segments;
+    const x = x0 + t * (x1 - x0);
+    const wave = Math.sin(t * Math.PI * 2 * peaks + phase) * amplitude;
+    points.push(`${x.toFixed(2)},${(y + wave).toFixed(2)}`);
   }
 
   return `M ${points.join(' L ')}`;
 }
 
-// Generate thread element with M03 data boundary validation
-function generateThread(data, index, totalThreads) {
-  const y = CONFIG.padding + index * CONFIG.threadHeight;
-  const { date, metrics, topRepos } = data;
+// Build one thread's SVG fragments
+function generateThread(thread, index, totalThreads, y, scales, x0, x1) {
+  const { metrics, topRepos, tier, label, dateRange, days, starsBasis } = thread;
+  const { dominantColor, totalStars, starMetric, avgScore, languageDistribution } = metrics;
 
-  // M03: Validate metrics exist and have safe defaults
-  const safeMetrics = {
-    dominantColor: metrics?.dominantColor || '#8b8b8b',
-    totalStars: Math.max(0, metrics?.totalStars || 0),
-    avgScore: Math.max(0, metrics?.avgScore || 0),
-    languageDistribution: metrics?.languageDistribution || {},
-  };
+  const starT = scales.stars(starMetric, starsBasis);
+  const strokeWidth = lerp(CONFIG.strokeRange, starT);
+  const peaks = lerp(CONFIG.peakRange, starT);
 
-  const { dominantColor, totalStars, avgScore, languageDistribution } = safeMetrics;
+  // Wave height is measured against the room left in the lane, so a heavy
+  // thread never has to choose between being thick and being wavy — and crests
+  // never reach the neighbouring thread's centre line.
+  const lane = Math.max(1, (tier.height - strokeWidth) / 2);
+  const amplitude = lane * lerp(CONFIG.amplitudeRange, scales.score(avgScore));
 
-  // Calculate stroke width based on total stars
-  const strokeWidth = Math.max(2, Math.min(8, totalStars / 500));
+  const phase = index * 0.5; // Offset each thread so the cloth looks woven
+  const wavePath = generateWavePath(y, amplitude, peaks, phase, x0, x1);
 
-  // Generate wave path
-  const wavePath = generateWavePath(y, metrics, index, CONFIG.width);
-
-  // Create gradient ID for this thread
   const gradientId = `thread-${index}`;
 
-  // Get language colors for gradient
+  // Up to three language colours, most common first
   const langColors = Object.entries(languageDistribution)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 3)
-    .map(([lang]) => {
-      const repo = topRepos.find(r => r.language === lang);
-      return repo?.color || dominantColor;
-    });
+    .map(([lang]) => topRepos.find(r => r.language === lang)?.color || dominantColor);
 
-  // Ensure we have at least 2 colors for gradient
-  while (langColors.length < 2) {
-    langColors.push(dominantColor);
-  }
+  while (langColors.length < 2) langColors.push(dominantColor);
 
-  // Animation delay based on position
-  const animDelay = `${index * 0.1}s`;
+  // Recency lives on the wrapper <g>, because the breathe animation owns the
+  // path's own opacity and would otherwise flatten every thread to the same value.
+  const recency = 0.35 + (1 - index / Math.max(1, totalThreads)) * 0.65;
 
-  // Opacity based on recency (newer = more opaque)
-  const opacity = 0.4 + (1 - index / totalThreads) * 0.6;
+  const scope = days > 1 ? ` (${days} 天)` : '';
+  const langs = Object.keys(languageDistribution).map(escapeXml).join(', ');
+  const starText = starsBasis === 'absolute'
+    ? `${Math.round(starMetric).toLocaleString()} stars (repo 累計)`
+    : `${Math.round(totalStars).toLocaleString()} stars (當日新增)`;
 
   return {
     gradient: `
@@ -123,48 +279,79 @@ function generateThread(data, index, totalThreads) {
       <stop offset="100%" stop-color="${langColors[2] || langColors[0]}" />
     </linearGradient>`,
     path: `
-    <path
-      d="${wavePath}"
-      stroke="url(#${gradientId})"
-      stroke-width="${strokeWidth}"
-      stroke-linecap="round"
-      fill="none"
-      opacity="${opacity}"
-      class="thread"
-      style="animation-delay: ${animDelay}"
-    >
-      <title>${escapeXml(date)}: ${totalStars} stars, ${Object.keys(languageDistribution).map(escapeXml).join(', ')}</title>
-    </path>`,
-    date,
+    <g opacity="${recency.toFixed(3)}">
+      <path
+        d="${wavePath}"
+        stroke="url(#${gradientId})"
+        stroke-width="${strokeWidth.toFixed(3)}"
+        stroke-linecap="round"
+        fill="none"
+        class="thread"
+        style="animation-delay: ${(index * 0.1).toFixed(1)}s"
+      >
+        <title>${escapeXml(dateRange)}${scope}: ${escapeXml(starText)}, ${langs}</title>
+      </path>
+    </g>`,
+    label,
+    y,
+    tier,
   };
 }
 
 // Generate the complete SVG
 function generateTapestry(dailyData) {
-  const height = CONFIG.padding * 2 + dailyData.length * CONFIG.threadHeight;
+  const threads = buildThreads(dailyData);
 
-  // Generate threads
-  const threads = dailyData.map((data, i) =>
-    generateThread(data, i, dailyData.length)
+  const x0 = CONFIG.padding;
+  const x1 = CONFIG.width - CONFIG.padding - CONFIG.labelGutter;
+
+  // Scales are built from the whole cloth, so contrast never saturates.
+  // Stars are scaled per basis — mixing the two eras on one scale would crush
+  // every recent thread onto the thinnest setting.
+  const starsByBasis = {};
+  for (const t of threads) {
+    (starsByBasis[t.starsBasis] ||= []).push(t.metrics.starMetric);
+  }
+  const starNorms = Object.fromEntries(
+    Object.entries(starsByBasis).map(([basis, values]) => [basis, makeNorm(values)])
   );
+  const scales = {
+    stars: (v, basis) => (starNorms[basis] || (() => 0.5))(v),
+    score: makeNorm(threads.map(t => t.metrics.avgScore)),
+  };
 
-  // Collect unique gradients
-  const gradients = threads.map(t => t.gradient).join('\n');
-  const paths = threads.map(t => t.path).join('\n');
+  // Lay threads out top to bottom, each tier with its own row height
+  let y = CONFIG.padding + (threads[0]?.tier.height || 12) / 2;
+  const laid = threads.map((thread, i) => {
+    const built = generateThread(thread, i, threads.length, y, scales, x0, x1);
+    y += thread.tier.height;
+    return built;
+  });
 
-  // Date labels (show every 7th day)
-  const dateLabels = threads
-    .filter((_, i) => i % 7 === 0)
-    .map((t, i) => {
-      const y = CONFIG.padding + (i * 7) * CONFIG.threadHeight + 4;
-      return `<text x="${CONFIG.width - CONFIG.padding + 5}" y="${y}" class="date-label">${escapeXml(t.date.slice(5))}</text>`;
+  // Hug the cloth: the canvas ends just below the last thread, no dead space
+  const lastHeight = threads[threads.length - 1]?.tier.height || 12;
+  const height = Math.max(Math.round(y - lastHeight / 2 + CONFIG.padding), 100);
+
+  const gradients = laid.map(t => t.gradient).join('\n');
+  const paths = laid.map(t => t.path).join('\n');
+
+  // Label the newest thread of each tier, then thin out so labels never collide
+  const tierCount = {};
+  const labels = laid
+    .filter((t, i) => {
+      const nth = (tierCount[t.tier.name] = (tierCount[t.tier.name] || 0) + 1);
+      if (nth === 1 || i === laid.length - 1) return true; // First of each tier, and the oldest thread
+      if (t.tier.name === 'day') return (nth - 1) % 7 === 0;
+      if (t.tier.name === 'month') return (nth - 1) % 2 === 0;
+      return true; // Weeks are sparse enough to label them all
     })
+    .map(t => `<text x="${x1 + 8}" y="${(t.y + 3).toFixed(1)}" class="date-label">${escapeXml(t.label)}</text>`)
     .join('\n');
 
   const svg = `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${CONFIG.width} ${Math.max(height, 200)}" width="${CONFIG.width}" height="${Math.max(height, 200)}">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${CONFIG.width} ${height}" width="${CONFIG.width}" height="${height}">
   <title>The Data Tapestry - GitHub Trends Woven in Time</title>
-  <desc>A living data art piece that weaves daily GitHub trending repositories into an evolving tapestry. Each thread represents one day of open source activity.</desc>
+  <desc>A living data art piece that weaves daily GitHub trending repositories into an evolving tapestry. Recent days are woven one thread per day; older days are gathered into weeks and months.</desc>
 
   <style>
     .thread {
@@ -173,7 +360,7 @@ function generateTapestry(dailyData) {
 
     @keyframes breathe {
       0% {
-        opacity: 0.85;
+        opacity: 0.82;
       }
       100% {
         opacity: 1;
@@ -183,20 +370,7 @@ function generateTapestry(dailyData) {
     .date-label {
       font-family: ui-monospace, monospace;
       font-size: 8px;
-      fill: #666;
-    }
-
-    .title {
-      font-family: system-ui, sans-serif;
-      font-size: 14px;
-      fill: #333;
-      font-weight: 600;
-    }
-
-    .subtitle {
-      font-family: system-ui, sans-serif;
-      font-size: 10px;
-      fill: #888;
+      fill: #999;
     }
 
     .empty-state {
@@ -222,11 +396,11 @@ function generateTapestry(dailyData) {
 
   <!-- Threads -->
   <g id="tapestry">
-    ${dailyData.length > 0 ? paths : `
-    <text x="${CONFIG.width / 2}" y="100" class="empty-state">
+    ${threads.length > 0 ? paths : `
+    <text x="${CONFIG.width / 2}" y="70" class="empty-state">
       The loom awaits its first thread...
     </text>
-    <text x="${CONFIG.width / 2}" y="120" class="empty-state">
+    <text x="${CONFIG.width / 2}" y="90" class="empty-state">
       Check back tomorrow to see the tapestry begin.
     </text>
     `}
@@ -234,12 +408,12 @@ function generateTapestry(dailyData) {
 
   <!-- Date markers -->
   <g id="dates">
-    ${dateLabels}
+    ${labels}
   </g>
 
 </svg>`;
 
-  return svg;
+  return { svg, threads, height };
 }
 
 // Generate Top 10 markdown table
@@ -305,11 +479,17 @@ function main() {
   console.log(`📊 Found ${dailyData.length} days of data`);
 
   console.log('🎨 Weaving tapestry...');
-  const svg = generateTapestry(dailyData);
+  const { svg, threads, height } = generateTapestry(dailyData);
+
+  const byTier = threads.reduce((acc, t) => {
+    acc[t.tier.name] = (acc[t.tier.name] || 0) + 1;
+    return acc;
+  }, {});
+  const tierSummary = Object.entries(byTier).map(([k, v]) => `${v} ${k}`).join(' + ') || 'none';
 
   try {
     writeFileSync('tapestry.svg', svg);
-    console.log('✨ Tapestry woven: tapestry.svg');
+    console.log(`✨ Tapestry woven: tapestry.svg (${threads.length} threads = ${tierSummary}, ${CONFIG.width}x${height})`);
   } catch (err) {
     console.error('❌ Failed to write tapestry.svg:', err.message);
     process.exit(1);

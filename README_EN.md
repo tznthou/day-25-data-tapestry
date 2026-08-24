@@ -16,7 +16,7 @@ A slow art experiment about "time, data, and evolution." Using Flat Data technol
 
 ## Current State
 
-This tapestry starts from nothing, automatically weaving a new thread each day.
+This tapestry starts from nothing, automatically weaving a new thread each day. The last 30 days get one thread each; before that, threads gather into weeks, then months — older memory is woven tighter, so the cloth never stretches into an endless strip. No raw data is ever deleted.
 
 - **First Thread**: 2025-12-23
 - **Days Woven**: Growing...
@@ -30,7 +30,8 @@ This tapestry starts from nothing, automatically weaving a new thread each day.
 |----------------|-------------|---------------|
 | **Thread Color** | Dominant Language | Python=Blue, TypeScript=Navy, Rust=Orange, JavaScript=Yellow |
 | **Color Gradient** | Language Distribution | Top 3 languages form horizontal gradient |
-| **Thread Width** | Total Stars | More stars = thicker thread |
+| **Thread Width** | Total Stars | More stars = thicker thread (log scale, relative to neighbouring days) |
+| **Wave Density** | Total Stars | More stars = more crests |
 | **Wave Amplitude** | Average Score | Higher score = more pronounced waves |
 | **Opacity** | Recency | Newer threads are clearer, older ones fade |
 
