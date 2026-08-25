@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-25** • Python 主導 • 共 27 ⭐
+**2026-08-26** • Python 主導 • 共 52 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 6 |
-| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 3 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3 |
-| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2 |
-| 5 | [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 3 |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 5 |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 7 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7 |
+| 5 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 8 |
 <!-- TOP10_END -->
 
 ---
