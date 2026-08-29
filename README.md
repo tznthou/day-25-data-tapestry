@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-28** • Python 主導 • 共 93 ⭐
+**2026-08-29** • Python 主導 • 共 125 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 29 |
-| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 15 |
-| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 11 |
-| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 6 |
-| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6 |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 28 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 33 |
+| 3 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 12 |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 12 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 11 |
 <!-- TOP10_END -->
 
 ---
