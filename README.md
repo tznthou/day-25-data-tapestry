@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-08-30** • TypeScript 主導 • 共 94 ⭐
+**2026-08-31** • Python 主導 • 共 122 ⭐
 
 | # | Repository | Language | Stars |
 |---|------------|----------|-------|
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 34 |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 11 |
-| 3 | [diffusionstudio/editor](https://github.com/diffusionstudio/editor) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 8 |
-| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
-| 5 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6 |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 41 |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 13 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 7 |
+| 4 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 11 |
+| 5 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ![PowerShell](https://img.shields.io/badge/-PowerShell-8b8b8b?style=flat-square) | ⭐ 8 |
 <!-- TOP10_END -->
 
 ---
