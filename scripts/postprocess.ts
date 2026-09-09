@@ -1,8 +1,15 @@
 /**
  * Flat Data Postprocess Script
  *
- * This script runs after Flat Data fetches the OSSInsight API response.
+ * This script runs after Flat Data fetches the GitHub Search API response.
  * It extracts the essential data and saves it as a daily slice.
+ *
+ * Source history: this used to read OSSInsight's /v1/trends/repos. That endpoint
+ * stopped returning rows on 2026-09-01 — it now answers HTTP 200 with an empty
+ * result and a `data_quality` block declaring the metric unavailable, because
+ * their capture of GitHub's event firehose fell to ~0.3% of baseline. The
+ * ranking was event-derived, so it could not survive that. We now rank by
+ * GitHub's own Search API instead, which reads from GitHub's records directly.
  */
 
 import { readJSON, writeJSON } from "https://deno.land/x/flat@0.0.15/mod.ts";
@@ -46,24 +53,24 @@ const languageColors: Record<string, string> = {
 };
 
 // Process the trending data
-interface TrendingRepo {
-  repo_id: string;
-  repo_name: string;
-  primary_language: string | null;
-  description: string;
-  stars: string;
-  forks: string;
-  total_score: string;
+interface SearchRepo {
+  full_name: string;
+  language: string | null;
+  description: string | null;
+  stargazers_count: number;
+  forks_count: number;
+  created_at: string;
 }
 
-// H01: Detect API rate limiting or error responses
+// H01: Detect API rate limiting or error responses. GitHub answers a throttled
+// search with 403 + a `message`, so this catches the rate limit too.
 if (rawData?.message || rawData?.error) {
   console.error('❌ API error response detected');
   console.error('   Message:', rawData.message || rawData.error);
   Deno.exit(1);
 }
 
-const rows: TrendingRepo[] = rawData?.data?.rows || [];
+const rows: SearchRepo[] = rawData?.items || [];
 
 // Validate API response - fail early if no data
 if (!rows || rows.length === 0) {
@@ -72,30 +79,6 @@ if (!rows || rows.length === 0) {
   Deno.exit(1);
 }
 
-// Extract top 10 repos and compute daily metrics with field validation
-const topRepos = rows.slice(0, 10).map((repo: TrendingRepo) => {
-  // Validate required fields
-  const name = repo.repo_name || 'unknown/repo';
-  const stars = parseInt(repo.stars) || 0;
-  const score = parseFloat(repo.total_score) || 0;
-
-  return {
-    name,
-    language: repo.primary_language || "Unknown",
-    color: languageColors[repo.primary_language || ""] || "#8b8b8b",
-    stars: Math.max(0, stars), // Upstream's own figure — see starsTotal below
-    score: Math.max(0, score), // Ensure non-negative
-  };
-});
-
-// H05: Upstream's `stars` field went bad — since 2026-05 it reports single
-// digits for repos that genuinely have tens of thousands of stars (measured:
-// firecrawl/anydoc reported as 2, actually 18,100). Upstream still *picks* the
-// right repos, so we keep its selection and fetch the real count ourselves.
-//
-// Note the two figures mean different things: `stars` was a daily delta,
-// `starsTotal` is the repo's lifetime count. Both are recorded so the tapestry
-// can tell them apart instead of silently mixing scales.
 interface RepoSlice {
   name: string;
   language: string;
@@ -105,58 +88,67 @@ interface RepoSlice {
   starsTotal?: number;
 }
 
-async function fetchRealStars(name: string, headers: Record<string, string>): Promise<number | null> {
-  // One retry: the API answers 504 often enough under parallel load
-  for (let attempt = 0; attempt < 2; attempt++) {
-    try {
-      const res = await fetch(`https://api.github.com/repos/${name}`, { headers });
-      if (res.ok) {
-        const data = await res.json();
-        return typeof data.stargazers_count === 'number' ? data.stargazers_count : null;
-      }
-      if (res.status === 404 || res.status === 403) return null; // Gone or rate-limited: no point retrying
-    } catch {
-      // Network hiccup — fall through to the retry
-    }
-    if (attempt === 0) await new Promise(r => setTimeout(r, 1500));
-  }
-  return null;
-}
+// Extract top 10 repos and compute daily metrics with field validation.
+//
+// The previous source needed a second round-trip per repo: its `stars` field
+// had gone bad (single digits for repos with tens of thousands) so we re-queried
+// GitHub for the real count. The Search API answers from GitHub's own records,
+// so `stargazers_count` is already the real figure and that whole enrichment
+// step is gone — one request per day instead of eleven.
+const topRepos: RepoSlice[] = rows.slice(0, 10).map((repo: SearchRepo) => {
+  const name = repo.full_name || 'unknown/repo';
+  const stars = Math.max(0, repo.stargazers_count || 0);
+  const forks = Math.max(0, repo.forks_count || 0);
 
-const githubToken = Deno.env.get("GITHUB_TOKEN");
-const headers: Record<string, string> = {
-  "Accept": "application/vnd.github+json",
-  "User-Agent": "data-tapestry-weaver",
-};
-if (githubToken) headers["Authorization"] = `Bearer ${githubToken}`;
+  // Community engagement, as forks per thousand stars. This replaces upstream's
+  // opaque `total_score`, which has no equivalent here. Starring is one click;
+  // forking means someone opened the code — the ratio separates a repo people
+  // bookmarked from one they actually worked on.
+  //
+  // Measured on 2026-09-09: 32, 39, 63, 81, 84, 99, 150, 162, 253, 1289 —
+  // nine in the 30-250 band and one outlier. Template and tutorial repos get
+  // forked more than they get starred, so the odd four-figure day is the metric
+  // working, not breaking. It still pulls the mean (225 here, against a median
+  // of 99), which lands inside the 207-1,518 range the old `total_score`
+  // occupied, so the tapestry's amplitude scaling stays in familiar territory.
+  const score = stars > 0 ? (forks / stars) * 1000 : 0;
 
-const enriched: RepoSlice[] = await Promise.all(
-  topRepos.map(async (repo: RepoSlice) => {
-    const starsTotal = await fetchRealStars(repo.name, headers);
-    return starsTotal === null ? repo : { ...repo, starsTotal };
-  })
-);
+  return {
+    name,
+    language: repo.language || "Unknown",
+    color: languageColors[repo.language || ""] || "#8b8b8b",
+    stars,
+    starsTotal: stars, // Same figure — see the basis note below
+    score,
+  };
+});
 
-const enrichedCount = enriched.filter(r => r.starsTotal !== undefined).length;
-console.log(`⭐ Real star counts: ${enrichedCount}/${enriched.length} (token: ${githubToken ? "yes" : "no"})`);
-
-// Compute daily aggregate metrics for the thread
-const totalStars = enriched.reduce((sum: number, r: RepoSlice) => sum + r.stars, 0);
-
-// Lifetime star counts, only when we actually resolved every repo — a partial
-// sum would understate the day and put a false dip in the cloth.
-const totalStarsAbsolute = enrichedCount === enriched.length
-  ? enriched.reduce((sum: number, r: RepoSlice) => sum + (r.starsTotal || 0), 0)
-  : null;
+// Both star fields carry the repo's lifetime count, so every slice from here on
+// lands on the tapestry's `absolute` basis. That is deliberate: weave.js only
+// falls back to `totalStars` when a thread bundles slices that lack
+// `totalStarsAbsolute`, i.e. slices written before 2026-08-24. Those cannot
+// share a bucket with new ones — `day` tier is one slice per thread, the `week`
+// tier buckets 7 days while the two eras sit more than a fortnight apart, and
+// month buckets key on YYYY-MM. Simulated forward 365 days over the real
+// archive: no bucket ever mixes the two scales.
+//
+// Re-check that if CONFIG.tiers in weave.js ever changes: widen a bucket enough
+// to span both eras and the mixed scales would silently flatten the cloth.
+//
+// The 7-day window also keeps the gap narrow — a day totals ~13,600 stars here
+// against the old era's 20-3,511, near enough that even a mix would not wreck
+// the scaling. A 30-day window measured ~314,000, two orders out.
+const totalStars = topRepos.reduce((sum: number, r: RepoSlice) => sum + r.stars, 0);
+const totalStarsAbsolute = totalStars;
 
 // H04: Prevent division by zero
-const avgScore = enriched.length > 0
-  ? enriched.reduce((sum: number, r: RepoSlice) => sum + r.score, 0) / enriched.length
+const avgScore = topRepos.length > 0
+  ? topRepos.reduce((sum: number, r: RepoSlice) => sum + r.score, 0) / topRepos.length
   : 0;
 
 // Count languages for color distribution
 const languageCounts: Record<string, number> = {};
-enriched.forEach((r: RepoSlice) => {
+topRepos.forEach((r: RepoSlice) => {
   languageCounts[r.language] = (languageCounts[r.language] || 0) + 1;
 });
 
@@ -169,13 +161,13 @@ const dailySlice = {
   date: today,
   metrics: {
     totalStars,
-    ...(totalStarsAbsolute !== null ? { totalStarsAbsolute } : {}),
+    totalStarsAbsolute,
     avgScore: Math.round(avgScore * 100) / 100,
     dominantLanguage,
     dominantColor: languageColors[dominantLanguage] || "#8b8b8b",
     languageDistribution: languageCounts,
   },
-  topRepos: enriched,
+  topRepos,
 };
 
 // Write to daily archive
@@ -193,7 +185,7 @@ await writeJSON(archiveFilename, dailySlice);
 // Also update the latest.json for quick access
 await writeJSON("data/latest.json", dailySlice);
 
-console.log(`✨ Processed ${enriched.length} repos for ${today}`);
+console.log(`✨ Processed ${topRepos.length} repos for ${today}`);
 console.log(`   Dominant: ${dominantLanguage} (${dailySlice.metrics.dominantColor})`);
-console.log(`   Upstream stars: ${totalStars}`);
-console.log(`   Real stars: ${totalStarsAbsolute !== null ? totalStarsAbsolute : "unavailable (partial fetch)"}`);
+console.log(`   Total stars: ${totalStars.toLocaleString()}`);
+console.log(`   Avg engagement (forks per 1k stars): ${dailySlice.metrics.avgScore}`);
