@@ -79,6 +79,51 @@ if (!rows || rows.length === 0) {
   Deno.exit(1);
 }
 
+// An empty answer is the easy case. The dangerous one is a *partial* answer:
+// GitHub sets `incomplete_results` when the search timed out and returned only
+// some of the ranking, and that payload is still well-formed JSON with a
+// plausible items array. Measured: three repos with incomplete_results:true
+// wrote a slice with 6,699 stars instead of 13,620 and an avgScore of 524
+// instead of 225 — postprocess exited 0, the workflow went green, and that
+// day's thread would have been quietly wrong forever.
+if (rawData?.incomplete_results === true) {
+  console.error('❌ Search returned a partial ranking (incomplete_results: true)');
+  console.error('   Refusing to write a truncated day. Next run will retry.');
+  Deno.exit(1);
+}
+
+// The tapestry's per-day metrics (totals, language mix, average engagement) are
+// only comparable across days if every day counts the same number of repos.
+// A short list is not a smaller day, it is a wrong one — so require the full
+// ten rather than weaving whatever arrived. Skipping a day is recoverable;
+// a silently skewed thread is not.
+const EXPECTED_REPOS = 10;
+if (rows.length < EXPECTED_REPOS) {
+  console.error(`❌ Expected ${EXPECTED_REPOS} repos, got ${rows.length}`);
+  Deno.exit(1);
+}
+
+// Field-level validation. The mapping below used to coerce anything missing
+// into 'unknown/repo' or 0 — defensive in the wrong direction, because it
+// turned a broken payload into a plausible-looking day instead of a loud
+// failure. Worth noting none of that ever produced NaN (`|| 0` and Math.max
+// caught every case, string and negative counts included), which is precisely
+// why it stayed invisible: there was no bad value to trip over downstream.
+const isCount = (v: unknown): boolean =>
+  typeof v === 'number' && Number.isFinite(v) && v >= 0;
+
+rows.slice(0, EXPECTED_REPOS).forEach((repo: SearchRepo, i: number) => {
+  const bad: string[] = [];
+  if (typeof repo.full_name !== 'string' || repo.full_name.trim() === '') bad.push('full_name');
+  if (!isCount(repo.stargazers_count)) bad.push('stargazers_count');
+  if (!isCount(repo.forks_count)) bad.push('forks_count');
+  if (bad.length > 0) {
+    console.error(`❌ Repo #${i + 1} has unusable fields: ${bad.join(', ')}`);
+    console.error('   Entry:', JSON.stringify(repo).slice(0, 200));
+    Deno.exit(1);
+  }
+});
+
 interface RepoSlice {
   name: string;
   language: string;
@@ -95,10 +140,14 @@ interface RepoSlice {
 // GitHub for the real count. The Search API answers from GitHub's own records,
 // so `stargazers_count` is already the real figure and that whole enrichment
 // step is gone — one request per day instead of eleven.
-const topRepos: RepoSlice[] = rows.slice(0, 10).map((repo: SearchRepo) => {
-  const name = repo.full_name || 'unknown/repo';
-  const stars = Math.max(0, repo.stargazers_count || 0);
-  const forks = Math.max(0, repo.forks_count || 0);
+const topRepos: RepoSlice[] = rows.slice(0, EXPECTED_REPOS).map((repo: SearchRepo) => {
+  // No coercion here on purpose: the checks above already rejected anything
+  // unusable, and a fallback value at this point would re-hide exactly what
+  // they just caught. `language` is the one field GitHub legitimately returns
+  // as null (repos it cannot classify), so that one keeps a default.
+  const name = repo.full_name;
+  const stars = repo.stargazers_count;
+  const forks = repo.forks_count;
 
   // Community engagement, as forks per thousand stars. This replaces upstream's
   // opaque `total_score`, which has no equivalent here. Starring is one click;
