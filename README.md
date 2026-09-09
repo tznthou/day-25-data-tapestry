@@ -25,15 +25,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-01** • TypeScript 主導 • 共 126 ⭐
+**2026-09-09** • Python 主導 • 共 13,727 ⭐（repo 累計）
 
-| # | Repository | Language | Stars |
+| # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 31 |
-| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 29 |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 11 |
-| 4 | [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 9 |
-| 5 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 9 |
+| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,577 |
+| 2 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,183 |
+| 3 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,968 |
+| 4 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,178 |
+| 5 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,165 |
 <!-- TOP10_END -->
 
 ---
