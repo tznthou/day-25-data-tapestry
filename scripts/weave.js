@@ -423,14 +423,31 @@ function generateTop10Markdown(latestData) {
   }
 
   const { date, metrics, topRepos } = latestData;
+
+  // Two eras of star data share this table. Slices written before 2026-08-24
+  // counted the stars a repo gained that day; everything after counts its
+  // lifetime total. Same ⭐ glyph, different question answered — and the two
+  // differ by orders of magnitude (31 against 2,559 on real days), so an
+  // unlabelled table reads as the tapestry catching fire. The SVG tooltips
+  // already say which basis a thread is on; the README has to say it too.
+  //
+  // Pick the figure that matches the label: on the absolute basis the headline
+  // is the lifetime sum and each row is that repo's lifetime count, not the
+  // `stars` field — which, for the 2026-08-24..09-01 slices, still holds the
+  // upstream daily figure that had gone bad.
+  const isAbsolute = typeof metrics.totalStarsAbsolute === 'number';
+  const basisNote = isAbsolute ? 'repo 累計' : '當日新增';
+  const headline = isAbsolute ? metrics.totalStarsAbsolute : metrics.totalStars;
+
   const rows = topRepos.slice(0, 5).map((repo, i) => {
     const langBadge = `![${repo.language}](https://img.shields.io/badge/-${encodeURIComponent(repo.language)}-${repo.color.slice(1)}?style=flat-square)`;
-    return `| ${i + 1} | [${repo.name}](https://github.com/${repo.name}) | ${langBadge} | ⭐ ${repo.stars.toLocaleString()} |`;
+    const stars = isAbsolute && typeof repo.starsTotal === 'number' ? repo.starsTotal : repo.stars;
+    return `| ${i + 1} | [${repo.name}](https://github.com/${repo.name}) | ${langBadge} | ⭐ ${stars.toLocaleString()} |`;
   });
 
-  return `**${date}** • ${metrics.dominantLanguage} 主導 • 共 ${metrics.totalStars.toLocaleString()} ⭐
+  return `**${date}** • ${metrics.dominantLanguage} 主導 • 共 ${headline.toLocaleString()} ⭐（${basisNote}）
 
-| # | Repository | Language | Stars |
+| # | Repository | Language | Stars (${basisNote}) |
 |---|------------|----------|-------|
 ${rows.join('\n')}`;
 }
