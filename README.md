@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-11** • Python 主導 • 共 14,495 ⭐（repo 累計）
+**2026-09-12** • Python 主導 • 共 15,118 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,055 |
-| 2 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,058 |
-| 3 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,686 |
-| 4 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 1,365 |
-| 5 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,346 |
+| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,199 |
+| 2 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,774 |
+| 3 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 1,731 |
+| 4 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 1,454 |
+| 5 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,439 |
 <!-- TOP10_END -->
 
 ---
