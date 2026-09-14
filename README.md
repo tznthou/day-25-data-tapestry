@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-14** • Python 主導 • 共 12,488 ⭐（repo 累計）
+**2026-09-15** • Python 主導 • 共 10,199 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,386 |
-| 2 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,854 |
-| 3 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,568 |
-| 4 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,495 |
-| 5 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,148 |
+| 1 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,889 |
+| 2 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,695 |
+| 3 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,309 |
+| 4 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 865 |
+| 5 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 841 |
 <!-- TOP10_END -->
 
 ---
