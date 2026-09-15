@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-15** • Python 主導 • 共 10,199 ⭐（repo 累計）
+**2026-09-16** • Python 主導 • 共 7,637 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 1,889 |
-| 2 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,695 |
-| 3 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,309 |
-| 4 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 865 |
-| 5 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 841 |
+| 1 | [Chuloo/mural](https://github.com/Chuloo/mural) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 991 |
+| 2 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 911 |
+| 3 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 820 |
+| 4 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 820 |
+| 5 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 706 |
 <!-- TOP10_END -->
 
 ---
