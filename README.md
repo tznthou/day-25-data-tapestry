@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-17** • Python 主導 • 共 8,566 ⭐（repo 累計）
+**2026-09-18** • Python 主導 • 共 8,879 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [Chuloo/mural](https://github.com/Chuloo/mural) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 1,225 |
-| 2 | [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,097 |
-| 3 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 936 |
-| 4 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 854 |
-| 5 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 825 |
+| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,564 |
+| 2 | [Chuloo/mural](https://github.com/Chuloo/mural) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 1,308 |
+| 3 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 870 |
+| 4 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 834 |
+| 5 | [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 820 |
 <!-- TOP10_END -->
 
 ---
