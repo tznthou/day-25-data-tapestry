@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-22** • Python 主導 • 共 53,498 ⭐（repo 累計）
+**2026-09-23** • Python 主導 • 共 70,359 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 15,346 |
-| 2 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 9,453 |
-| 3 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,911 |
-| 4 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,488 |
-| 5 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 4,308 |
+| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 17,893 |
+| 2 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 15,880 |
+| 3 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,272 |
+| 4 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,248 |
+| 5 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5,278 |
 <!-- TOP10_END -->
 
 ---
