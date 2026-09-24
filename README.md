@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-24** • Python 主導 • 共 56,856 ⭐（repo 累計）
+**2026-09-25** • Python 主導 • 共 50,216 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 20,026 |
-| 2 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,528 |
-| 3 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,516 |
-| 4 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5,895 |
-| 5 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5,772 |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 22,745 |
+| 2 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,697 |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6,193 |
+| 4 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 5,988 |
+| 5 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,866 |
 <!-- TOP10_END -->
 
 ---
