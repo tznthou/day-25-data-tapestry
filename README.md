@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-26** • Python 主導 • 共 29,401 ⭐（repo 累計）
+**2026-09-27** • TypeScript 主導 • 共 24,259 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,768 |
-| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 6,497 |
-| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 6,322 |
-| 4 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,929 |
-| 5 | [driceroland/Search](https://github.com/driceroland/Search) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 1,691 |
+| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,827 |
+| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 6,660 |
+| 3 | [driceroland/Search](https://github.com/driceroland/Search) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,082 |
+| 4 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,958 |
+| 5 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,507 |
 <!-- TOP10_END -->
 
 ---
