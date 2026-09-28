@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-28** • Go 主導 • 共 18,570 ⭐（repo 累計）
+**2026-09-29** • TypeScript 主導 • 共 14,203 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 6,770 |
-| 2 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,983 |
-| 3 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,852 |
-| 4 | [tobi/disktree](https://github.com/tobi/disktree) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,552 |
-| 5 | [yetone/magpie](https://github.com/yetone/magpie) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,222 |
+| 1 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,256 |
+| 2 | [tobi/disktree](https://github.com/tobi/disktree) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,804 |
+| 3 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,745 |
+| 4 | [yetone/magpie](https://github.com/yetone/magpie) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 1,581 |
+| 5 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 1,417 |
 <!-- TOP10_END -->
 
 ---
