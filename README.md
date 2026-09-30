@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-09-30** • TypeScript 主導 • 共 18,403 ⭐（repo 累計）
+**2026-10-01** • TypeScript 主導 • 共 19,529 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,966 |
-| 2 | [yetone/magpie](https://github.com/yetone/magpie) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 2,566 |
-| 3 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,491 |
-| 4 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,960 |
-| 5 | [tobi/disktree](https://github.com/tobi/disktree) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,896 |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,039 |
+| 2 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,853 |
+| 3 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,099 |
+| 4 | [tobi/disktree](https://github.com/tobi/disktree) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,979 |
+| 5 | [feder-cr/dots](https://github.com/feder-cr/dots) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,930 |
 <!-- TOP10_END -->
 
 ---
