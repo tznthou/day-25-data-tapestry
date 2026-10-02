@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-02** • Python 主導 • 共 18,772 ⭐（repo 累計）
+**2026-10-03** • Python 主導 • 共 21,231 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,609 |
-| 2 | [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,386 |
-| 3 | [feder-cr/dots](https://github.com/feder-cr/dots) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,210 |
-| 4 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,991 |
-| 5 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,475 |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,951 |
+| 2 | [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,908 |
+| 3 | [feder-cr/dots](https://github.com/feder-cr/dots) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,445 |
+| 4 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,054 |
+| 5 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,007 |
 <!-- TOP10_END -->
 
 ---
