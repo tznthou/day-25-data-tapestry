@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-05** • Python 主導 • 共 21,939 ⭐（repo 累計）
+**2026-10-06** • Python 主導 • 共 21,489 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,747 |
-| 2 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,108 |
-| 3 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,978 |
-| 4 | [feder-cr/dots](https://github.com/feder-cr/dots) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,597 |
-| 5 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 1,380 |
+| 1 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,812 |
+| 2 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,653 |
+| 3 | [feder-cr/dots](https://github.com/feder-cr/dots) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,617 |
+| 4 | [storytold/photocraft](https://github.com/storytold/photocraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,959 |
+| 5 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 1,919 |
 <!-- TOP10_END -->
 
 ---
