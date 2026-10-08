@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-08** • JavaScript 主導 • 共 21,922 ⭐（repo 累計）
+**2026-10-09** • JavaScript 主導 • 共 25,126 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 9,060 |
-| 2 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,027 |
-| 3 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 1,646 |
-| 4 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,632 |
-| 5 | [deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 1,581 |
+| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 11,956 |
+| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,400 |
+| 3 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,319 |
+| 4 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 1,785 |
+| 5 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,654 |
 <!-- TOP10_END -->
 
 ---
