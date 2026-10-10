@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-10** • Rust 主導 • 共 28,627 ⭐（repo 累計）
+**2026-10-11** • Rust 主導 • 共 34,711 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 12,989 |
-| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,846 |
-| 3 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 2,103 |
-| 4 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 1,807 |
-| 5 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,672 |
+| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 13,621 |
+| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 3,191 |
+| 3 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,977 |
+| 4 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 2,888 |
+| 5 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,529 |
 <!-- TOP10_END -->
 
 ---
