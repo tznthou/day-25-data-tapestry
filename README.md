@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-12** • Rust 主導 • 共 41,432 ⭐（repo 累計）
+**2026-10-13** • Rust 主導 • 共 52,764 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 14,016 |
-| 2 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 5,288 |
-| 3 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 3,376 |
-| 4 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 3,127 |
-| 5 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,993 |
+| 1 | [openai/math](https://github.com/openai/math) | ![Lean](https://img.shields.io/badge/-Lean-8b8b8b?style=flat-square) | ⭐ 14,409 |
+| 2 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 8,997 |
+| 3 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 6,090 |
+| 4 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,785 |
+| 5 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 3,607 |
 <!-- TOP10_END -->
 
 ---
