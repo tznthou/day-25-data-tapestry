@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-14** • Rust 主導 • 共 44,548 ⭐（repo 累計）
+**2026-10-15** • Rust 主導 • 共 32,501 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 10,901 |
-| 2 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 8,032 |
-| 3 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4,399 |
-| 4 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4,129 |
-| 5 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 3,866 |
+| 1 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 9,772 |
+| 2 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 4,067 |
+| 3 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 3,512 |
+| 4 | [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 2,663 |
+| 5 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,598 |
 <!-- TOP10_END -->
 
 ---
