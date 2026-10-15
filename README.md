@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-15** • Rust 主導 • 共 32,501 ⭐（repo 累計）
+**2026-10-16** • Rust 主導 • 共 18,657 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 9,772 |
-| 2 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) | ⭐ 4,067 |
-| 3 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 3,512 |
-| 4 | [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square) | ⭐ 2,663 |
-| 5 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,598 |
+| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,034 |
+| 2 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,829 |
+| 3 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,368 |
+| 4 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,336 |
+| 5 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,959 |
 <!-- TOP10_END -->
 
 ---
