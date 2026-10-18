@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-18** • TypeScript 主導 • 共 21,250 ⭐（repo 累計）
+**2026-10-19** • TypeScript 主導 • 共 19,902 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,687 |
-| 2 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,979 |
-| 3 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,617 |
-| 4 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,556 |
-| 5 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 1,991 |
+| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,820 |
+| 2 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,724 |
+| 3 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,178 |
+| 4 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,010 |
+| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 1,878 |
 <!-- TOP10_END -->
 
 ---
