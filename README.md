@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-21** • Python 主導 • 共 37,103 ⭐（repo 累計）
+**2026-10-22** • Python 主導 • 共 53,120 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 11,351 |
-| 2 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 10,914 |
-| 3 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,660 |
-| 4 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 2,042 |
-| 5 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,898 |
+| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 18,258 |
+| 2 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 17,599 |
+| 3 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,746 |
+| 4 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 2,579 |
+| 5 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,047 |
 <!-- TOP10_END -->
 
 ---
