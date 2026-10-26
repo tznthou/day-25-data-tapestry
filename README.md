@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-26** • C 主導 • 共 24,817 ⭐（repo 累計）
+**2026-10-27** • Python 主導 • 共 24,235 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 4,954 |
-| 2 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square) | ⭐ 4,533 |
-| 3 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,401 |
-| 4 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,364 |
-| 5 | [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,073 |
+| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 6,013 |
+| 2 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,749 |
+| 3 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,059 |
+| 4 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,046 |
+| 5 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,020 |
 <!-- TOP10_END -->
 
 ---
