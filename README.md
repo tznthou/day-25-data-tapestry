@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-27** • Python 主導 • 共 24,235 ⭐（repo 累計）
+**2026-10-28** • Python 主導 • 共 23,299 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 6,013 |
-| 2 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,749 |
-| 3 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,059 |
-| 4 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,046 |
-| 5 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,020 |
+| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4,227 |
+| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,155 |
+| 3 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,429 |
+| 4 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,195 |
+| 5 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,151 |
 <!-- TOP10_END -->
 
 ---
