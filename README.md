@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-29** • Python 主導 • 共 26,582 ⭐（repo 累計）
+**2026-10-30** • Python 主導 • 共 30,371 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4,404 |
-| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4,250 |
-| 3 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 3,665 |
-| 4 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,029 |
-| 5 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,568 |
+| 1 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 4,704 |
+| 2 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 4,584 |
+| 3 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 4,505 |
+| 4 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,502 |
+| 5 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,218 |
 <!-- TOP10_END -->
 
 ---
