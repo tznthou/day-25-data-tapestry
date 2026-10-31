@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-10-31** • Python 主導 • 共 30,539 ⭐（repo 累計）
+**2026-11-01** • TypeScript 主導 • 共 33,130 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 5,330 |
-| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 5,037 |
-| 3 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square) | ⭐ 3,920 |
-| 4 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,833 |
-| 5 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,352 |
+| 1 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 5,664 |
+| 2 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,628 |
+| 3 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,981 |
+| 4 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,543 |
+| 5 | [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ![Dart](https://img.shields.io/badge/-Dart-00B4AB?style=flat-square) | ⭐ 3,535 |
 <!-- TOP10_END -->
 
 ---
