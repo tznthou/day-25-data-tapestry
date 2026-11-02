@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-02** • TypeScript 主導 • 共 32,941 ⭐（repo 累計）
+**2026-11-03** • JavaScript 主導 • 共 48,009 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 6,825 |
-| 2 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,115 |
-| 3 | [heydamir/unslop](https://github.com/heydamir/unslop) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 4,699 |
-| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 3,733 |
-| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,085 |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 13,005 |
+| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 6,204 |
+| 3 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,482 |
+| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 5,246 |
+| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,952 |
 <!-- TOP10_END -->
 
 ---
