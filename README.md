@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-06** • TypeScript 主導 • 共 55,353 ⭐（repo 累計）
+**2026-11-07** • TypeScript 主導 • 共 58,617 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 19,429 |
-| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 14,760 |
-| 3 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 5,240 |
-| 4 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,217 |
-| 5 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square) | ⭐ 2,442 |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 20,213 |
+| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 17,752 |
+| 3 | [zortos293/Lichii](https://github.com/zortos293/Lichii) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 3,744 |
+| 4 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,647 |
+| 5 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,862 |
 <!-- TOP10_END -->
 
 ---
