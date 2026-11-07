@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-07** • TypeScript 主導 • 共 58,617 ⭐（repo 累計）
+**2026-11-08** • TypeScript 主導 • 共 21,619 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 20,213 |
-| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 17,752 |
-| 3 | [zortos293/Lichii](https://github.com/zortos293/Lichii) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 3,744 |
-| 4 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,647 |
-| 5 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,862 |
+| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,939 |
+| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,037 |
+| 3 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,229 |
+| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,212 |
+| 5 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,195 |
 <!-- TOP10_END -->
 
 ---
