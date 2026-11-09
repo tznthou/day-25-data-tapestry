@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-09** • TypeScript 主導 • 共 22,886 ⭐（repo 累計）
+**2026-11-10** • TypeScript 主導 • 共 29,201 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,087 |
-| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,229 |
-| 3 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 3,159 |
-| 4 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,764 |
-| 5 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,371 |
+| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,887 |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 4,946 |
+| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,270 |
+| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,507 |
+| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,353 |
 <!-- TOP10_END -->
 
 ---
