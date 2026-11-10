@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-10** • TypeScript 主導 • 共 29,201 ⭐（repo 累計）
+**2026-11-11** • C++ 主導 • 共 26,361 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 5,887 |
-| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 4,946 |
-| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,270 |
-| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,507 |
-| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,353 |
+| 1 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 6,389 |
+| 2 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 4,614 |
+| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 2,816 |
+| 4 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square) | ⭐ 2,358 |
+| 5 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,005 |
 <!-- TOP10_END -->
 
 ---
