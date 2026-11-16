@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-16** • TypeScript 主導 • 共 24,231 ⭐（repo 累計）
+**2026-11-17** • TypeScript 主導 • 共 19,959 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 7,728 |
-| 2 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 2,820 |
-| 3 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | ![Visual Basic .NET](https://img.shields.io/badge/-Visual%20Basic%20.NET-8b8b8b?style=flat-square) | ⭐ 2,340 |
-| 4 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,134 |
-| 5 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,124 |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,052 |
+| 2 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,464 |
+| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square) | ⭐ 2,196 |
+| 4 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,177 |
+| 5 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 1,858 |
 <!-- TOP10_END -->
 
 ---
