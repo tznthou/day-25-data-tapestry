@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-18** • Python 主導 • 共 20,617 ⭐（repo 累計）
+**2026-11-19** • Python 主導 • 共 23,257 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,514 |
-| 2 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,585 |
-| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 2,572 |
-| 4 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,140 |
-| 5 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,721 |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | ⭐ 4,812 |
+| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 3,891 |
+| 3 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,266 |
+| 4 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 2,387 |
+| 5 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,146 |
 <!-- TOP10_END -->
 
 ---
