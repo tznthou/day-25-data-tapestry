@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-21** • Python 主導 • 共 25,532 ⭐（repo 累計）
+**2026-11-22** • Python 主導 • 共 28,861 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 6,562 |
-| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 5,249 |
-| 3 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,526 |
-| 4 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,990 |
-| 5 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 1,710 |
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7,330 |
+| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 5,776 |
+| 3 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,150 |
+| 4 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,591 |
+| 5 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,233 |
 <!-- TOP10_END -->
 
 ---
