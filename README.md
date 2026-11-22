@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-22** • Python 主導 • 共 28,861 ⭐（repo 累計）
+**2026-11-23** • Python 主導 • 共 35,145 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7,330 |
-| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square) | ⭐ 5,776 |
-| 3 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 3,150 |
-| 4 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,591 |
-| 5 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,233 |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 13,957 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7,921 |
+| 3 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,744 |
+| 4 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,079 |
+| 5 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,936 |
 <!-- TOP10_END -->
 
 ---
