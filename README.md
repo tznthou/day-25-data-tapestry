@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-23** • Python 主導 • 共 35,145 ⭐（repo 累計）
+**2026-11-24** • Rust 主導 • 共 20,873 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 13,957 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 7,921 |
-| 3 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ![Unknown](https://img.shields.io/badge/-Unknown-8b8b8b?style=flat-square) | ⭐ 2,744 |
-| 4 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,079 |
-| 5 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 1,936 |
+| 1 | [ivall/xcl](https://github.com/ivall/xcl) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,425 |
+| 2 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,330 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,182 |
+| 4 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) | ⭐ 2,311 |
+| 5 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | ![Objective-C++](https://img.shields.io/badge/-Objective-C%2B%2B-8b8b8b?style=flat-square) | ⭐ 2,199 |
 <!-- TOP10_END -->
 
 ---
