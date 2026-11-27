@@ -35,15 +35,15 @@
 ### 今日熱門 Top 5
 
 <!-- TOP10_START -->
-**2026-11-26** • Rust 主導 • 共 44,702 ⭐（repo 累計）
+**2026-11-27** • Rust 主導 • 共 39,262 ⭐（repo 累計）
 
 | # | Repository | Language | Stars (repo 累計) |
 |---|------------|----------|-------|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 12,589 |
-| 2 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 8,306 |
-| 3 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 4,086 |
-| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,947 |
-| 5 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | ![C](https://img.shields.io/badge/-C-555555?style=flat-square) | ⭐ 3,927 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 13,346 |
+| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) | ⭐ 5,760 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 4,228 |
+| 4 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 3,280 |
+| 5 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | ⭐ 2,839 |
 <!-- TOP10_END -->
 
 ---
